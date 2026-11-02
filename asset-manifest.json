@@ -1,0 +1,6516 @@
+{
+  "project": "Weakest Mate Is the Alpha King / 无狼赘婿",
+  "version": "assets-2026-11-02-v1",
+  "date": "2026-11-02",
+  "scene_assets": 65,
+  "prop_assets": 36,
+  "variant_images": 404,
+  "emblem_images": 10,
+  "supplementary_character_images": 3,
+  "new_prompt_status": "18条修订提示词尚未生成对应图片",
+  "assets": [
+    {
+      "id": "S04",
+      "name": "赤月家族宴会厅",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S04_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S04_赤月家族宴会厅/S04_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2434809,
+          "sha256": "da6a7b79a091c0471bd74c5fa2d63b60d3098e6a10d4553877454e5f6559973a"
+        },
+        {
+          "key": "S04_B",
+          "variant": "B",
+          "direction": "双侧连续圆拱廊、宽阔横向大厅，宴桌靠侧，中间对峙区开阔",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S04_赤月家族宴会厅/S04_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2672398,
+          "sha256": "a45951baaab597c0eb5c0224126d9db1e3af3943c4f78c881dc634a4e6d1c1fb"
+        },
+        {
+          "key": "S04_C",
+          "variant": "C",
+          "direction": "挑高深胡桃木梁架屋顶，厚石墙深窗洞，庄园家族感",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S04_赤月家族宴会厅/S04_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2832622,
+          "sha256": "d65fc71f90c53cb716ce665e1b7e2c5ae40b07268c60c4bd305687ed50a9a548"
+        },
+        {
+          "key": "S04_D",
+          "variant": "D",
+          "direction": "双层内回廊围合礼仪大厅，下层宽拱，入口与主位形成清楚轴线",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S04_赤月家族宴会厅/S04_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2462812,
+          "sha256": "c804266cc1e2a58fcd25eafb15a2f54d6e39243c4c1b5b8db0e29e849e48d452"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "赤月格斗场",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S06_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S06_赤月格斗场/S06_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2645503,
+          "sha256": "4b8026a3037e161b341df0e7600c923518a27f11ad064df089ae48a8ef26136b"
+        },
+        {
+          "key": "S06_B",
+          "variant": "B",
+          "direction": "椭圆沙石格斗区，低看台与双层圆拱廊",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S06_赤月格斗场/S06_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3244439,
+          "sha256": "9137ae625a20850ea3e36f528ca53f608b7b2f0ebed31c7e3625e44c16b187ec"
+        },
+        {
+          "key": "S06_C",
+          "variant": "C",
+          "direction": "矩形石砌训练竞技院，四角阶梯看台",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S06_赤月格斗场/S06_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3186538,
+          "sha256": "b07697671b315f8d47bd5335124e5bee96c6c8ac14492d12795af2a05e76a47e"
+        },
+        {
+          "key": "S06_D",
+          "variant": "D",
+          "direction": "宽阔圆形格斗区，马蹄形高台围合，一侧大门开放",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S06_赤月格斗场/S06_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 3127354,
+          "sha256": "0260343a00bd4cfc6c5b8e9e67879c6a916a831bde89198feaf2d843fca98b01"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "赤月地下禁闭区／圣兽封印地",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01",
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S08_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S08_赤月地下禁闭区_圣兽封印地/S08_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2318371,
+          "sha256": "e33718a5fd002ad09e2be996f2f020206cf94705ada4fa606ba9ad336895d636"
+        },
+        {
+          "key": "S08_B",
+          "variant": "B",
+          "direction": "长方形地牢大厅，侧壁链锚与后方封印重门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S08_赤月地下禁闭区_圣兽封印地/S08_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2599130,
+          "sha256": "fde110d419d7111955f449c17fd5a09a8193000e48bf226cd8edab6ec09d1962"
+        },
+        {
+          "key": "S08_C",
+          "variant": "C",
+          "direction": "圆形地下封印室，环形步道，中央宽阔拘禁区",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S08_赤月地下禁闭区_圣兽封印地/S08_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2734372,
+          "sha256": "3326e59629dbe6a214b2d73a37f13db044d2f35cb9739704ec4ace2fded11072"
+        },
+        {
+          "key": "S08_D",
+          "variant": "D",
+          "direction": "三跨厚重石拱地牢，中央圣兽封印石台及侧廊",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S08_赤月地下禁闭区_圣兽封印地/S08_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2729382,
+          "sha256": "8945bb31d425d69bad495739d2d9f3168e7fcb785a0898b7411d8a02cee28196"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "赤月城墙外战场",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S09_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S09_赤月城墙外战场/S09_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2238096,
+          "sha256": "8afe6d0878206c864f3ad3e0e3c124fa0ddc1441383ee147192b8e47ac884ce2"
+        },
+        {
+          "key": "S09_B",
+          "variant": "B",
+          "direction": "宽浅壕沟与低土垒延伸至赤月外墙",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S09_赤月城墙外战场/S09_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2955827,
+          "sha256": "43287bd4252ee8e87523663a212b62e2ba9c9469c202054391f2dee1fd957299"
+        },
+        {
+          "key": "S09_C",
+          "variant": "C",
+          "direction": "阶梯岩坡连接外城门，平坦近战台地",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S09_赤月城墙外战场/S09_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2971437,
+          "sha256": "33612a0f412497c1a120336abab7bf648d8f55562bf734dfeac55e83359fe92e"
+        },
+        {
+          "key": "S09_D",
+          "variant": "D",
+          "direction": "城墙外开阔泥土战场，斜向岩脊划分进攻路线",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S09_赤月城墙外战场/S09_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2805121,
+          "sha256": "0c7617527068b5cef4b1bf14f19e89e74416a2093eb0861aa9cd39e71be0765f"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "赤月城墙上／西城墙缺口",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S10_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S10_赤月城墙上_西城墙缺口/S10_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2358667,
+          "sha256": "3992ecf59fcce66edd901834c95c81e33ecb65cf2f5a3725cc3597db9a26d4a9"
+        },
+        {
+          "key": "S10_B",
+          "variant": "B",
+          "direction": "宽阔平直城垛步道与方形防御塔",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S10_赤月城墙上_西城墙缺口/S10_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2616463,
+          "sha256": "6a7ccb77b848f100c1be5d967e52c0de18d3c6c911ed2060e31fab963d0dd2eb"
+        },
+        {
+          "key": "S10_C",
+          "variant": "C",
+          "direction": "城墙转角的半圆防御台连接两段墙道",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S10_赤月城墙上_西城墙缺口/S10_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2821845,
+          "sha256": "490cf8b47ec683965bc6c87be935fcd5721861b68f42e2649443c1d6e3fe5a8f"
+        },
+        {
+          "key": "S10_D",
+          "variant": "D",
+          "direction": "双层防御平台与短阶梯，西侧指定缺口位置清楚",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S10_赤月城墙上_西城墙缺口/S10_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2705347,
+          "sha256": "b60d54428b6f7eceaa8af5cefaa56ed6680465546f3551299f46a61ff4dc8b2c"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "赤月家族大厅／赤月大厅",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S11_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S11_赤月家族大厅_赤月大厅/S11_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2022942,
+          "sha256": "27d541e1745e32562165c4bb845a58fb75b500e8a17dd13569bb44a42f4091ab"
+        },
+        {
+          "key": "S11_B",
+          "variant": "B",
+          "direction": "宽阔横厅与三重圆拱主位壁龛",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S11_赤月家族大厅_赤月大厅/S11_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2592986,
+          "sha256": "673f8313d5e62b737c3032e89bcc2eebba9415df5e582e5f67790311e12c26be"
+        },
+        {
+          "key": "S11_C",
+          "variant": "C",
+          "direction": "高木梁厅、深窗洞、侧边双列家族座椅",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S11_赤月家族大厅_赤月大厅/S11_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2284260,
+          "sha256": "00762157d3d450951584245dfa32cb564e3819d96b95e59f24ad8da98548654e"
+        },
+        {
+          "key": "S11_D",
+          "variant": "D",
+          "direction": "双层拱廊大厅与低台主位，中央留完整通行区",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S11_赤月家族大厅_赤月大厅/S11_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2464424,
+          "sha256": "4a59107f9d8aecab0800baf14b9787f357b8fdeefa5371df2178ce6f069efb91"
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "赤月庄园／家族走廊",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S14_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S14_赤月庄园_家族走廊/S14_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2455748,
+          "sha256": "f07130eb853eea6da52566d2ec3915a7cddc54e9970948758d18111d7345bb88"
+        },
+        {
+          "key": "S14_B",
+          "variant": "B",
+          "direction": "双列宽圆拱走廊，浅色墙与深胡桃木双开门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S14_赤月庄园_家族走廊/S14_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2626956,
+          "sha256": "1aaab44310c1c504debcf0a5218598c54e811c7515df7bb9cf2110f8296f6515"
+        },
+        {
+          "key": "S14_C",
+          "variant": "C",
+          "direction": "木梁平顶宽走廊，重复石框门洞与宽窗",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S14_赤月庄园_家族走廊/S14_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2432943,
+          "sha256": "531ee87b75c7719c196209962b10a86fdd9266564f3311c046b23c266ee47c90"
+        },
+        {
+          "key": "S14_D",
+          "variant": "D",
+          "direction": "内庭一侧开放拱廊，另一侧暖灰墙和连续房门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S14_赤月庄园_家族走廊/S14_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2595384,
+          "sha256": "c8c4849a4269eeb0bf0af01e615296acfa12f934c9de3ae3636800c4495e9c10"
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "name": "男女主卧室／索菲亚房间／赤月宅邸卧室",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S15_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S15_男女主卧室_索菲亚房间_赤月宅邸卧室/S15_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2221459,
+          "sha256": "b1e41f81cf94adaf7da559ac9aec90319595649ce13f27ebb0c0a90ccf9e9037"
+        },
+        {
+          "key": "S15_B",
+          "variant": "B",
+          "direction": "宽大高窗卧室，床靠实墙，侧面独立起居角",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S15_男女主卧室_索菲亚房间_赤月宅邸卧室/S15_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2157748,
+          "sha256": "55555b43766dab10e2c206c27da9005c1cbf6e1f81a1b4dece9d86a82626b402"
+        },
+        {
+          "key": "S15_C",
+          "variant": "C",
+          "direction": "高木梁宽卧室，床与书桌由浅圆拱分区",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S15_男女主卧室_索菲亚房间_赤月宅邸卧室/S15_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2465546,
+          "sha256": "00b4955c7c0e0ae0c5c52035a4b9a5c2c370465aa37d8d965a93b5beb099cc0e"
+        },
+        {
+          "key": "S15_D",
+          "variant": "D",
+          "direction": "双窗套间卧室，床区与小会客区相通，整洁舒展",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S15_男女主卧室_索菲亚房间_赤月宅邸卧室/S15_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2189063,
+          "sha256": "2cdf48edb49b6e230ff2126638f64a2cb6345723ee646e65272c0eeb303bc191"
+        }
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "赤月城废墟",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S17_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S17_赤月城废墟/S17_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2847099,
+          "sha256": "5a54087ac50ca40ed26881baacbe6405aa7ff78a018a5038b06043c34c6122fe"
+        },
+        {
+          "key": "S17_B",
+          "variant": "B",
+          "direction": "受损欧式拱廊街区，塌落赭红瓦屋顶",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S17_赤月城废墟/S17_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2723770,
+          "sha256": "9b29b711b40f2ebbffce63e1e0ad129b2087d552aad78413649f952513cf0aea"
+        },
+        {
+          "key": "S17_C",
+          "variant": "C",
+          "direction": "破损的庄园广场边缘与半截暖灰石墙",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S17_赤月城废墟/S17_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2891467,
+          "sha256": "3a64956a824ee3e061fb8d32a15eb2b80d5fb740e50e22f11868aa0318a25232"
+        },
+        {
+          "key": "S17_D",
+          "variant": "D",
+          "direction": "欧式石桥旁街坊废墟，断裂窗框与胡桃木残梁",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S17_赤月城废墟/S17_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2850167,
+          "sha256": "67524705af67c14b6c81914224e841347ce876b688670e597f81e77daff4b7f8"
+        }
+      ]
+    },
+    {
+      "id": "S19",
+      "name": "赤月边境深林",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S19_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S19_赤月边境深林/S19_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3397381,
+          "sha256": "a2b64a38da5e4fbb1bf8d3c57ff07f362ae34d70fbf3ab90b870c694e8c7de31"
+        },
+        {
+          "key": "S19_B",
+          "variant": "B",
+          "direction": "针叶混生林中的宽浅谷路",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S19_赤月边境深林/S19_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3415716,
+          "sha256": "a3357c1b76c6c7d643f6679593c205c4c2da1a5ff432bde4af31832d2ae98de0"
+        },
+        {
+          "key": "S19_C",
+          "variant": "C",
+          "direction": "古老阔叶林边界，巨根与疏朗树间通路",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S19_赤月边境深林/S19_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3335902,
+          "sha256": "f83ff8cbaffaca11155f7590502a04db0974f2592e3ea4f2572a15337aac78ad"
+        },
+        {
+          "key": "S19_D",
+          "variant": "D",
+          "direction": "林地丘脊与低矮蕨丛，远处边境路径清晰",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S19_赤月边境深林/S19_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3340135,
+          "sha256": "5331f4d8ef7bf4f5ff8438f4deb02b5c32fc9d1aad7f162989f04690fdccd94b"
+        }
+      ]
+    },
+    {
+      "id": "S20",
+      "name": "赤月城门",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S20_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S20_赤月城门/S20_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2730007,
+          "sha256": "4bc5ea5c60d222b74ecf62be6a71a4cd21c38c7a4c2f207e9d5ad3d03534d872"
+        },
+        {
+          "key": "S20_B",
+          "variant": "B",
+          "direction": "单座宽方形门楼与双扇厚木门，圆拱门洞",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S20_赤月城门/S20_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3090248,
+          "sha256": "67f4c3f5740e3b4499d8b91604b1cf82e6a413537e07512df38a28fa2d8ef5a4"
+        },
+        {
+          "key": "S20_C",
+          "variant": "C",
+          "direction": "双侧圆形短塔夹住宽拱城门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S20_赤月城门/S20_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3251632,
+          "sha256": "e823762e50881392e439c5ae4ca17f23097586a9c95f08ea0647a8defeef9f8a"
+        },
+        {
+          "key": "S20_D",
+          "variant": "D",
+          "direction": "三跨拱门主楼，中央车道与两侧封闭防御空间",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S20_赤月城门/S20_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3173368,
+          "sha256": "102ced334819b9e21e3b602d6fb9fc7c6d04fb5524b7bc3026ddcecf621ffefb"
+        }
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "赤月伤兵营",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S23_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S23_赤月伤兵营/S23_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2348835,
+          "sha256": "a5454056f41105cf6b985bead271cf86e7506839b5d5a7b1ad526882583fba04"
+        },
+        {
+          "key": "S23_B",
+          "variant": "B",
+          "direction": "并列长棚围绕通行小院的伤兵区",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S23_赤月伤兵营/S23_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2721559,
+          "sha256": "8106b078f664d88b33651cb7f44c49d67e0f808d940e6b9c66b7c71a311319ea"
+        },
+        {
+          "key": "S23_C",
+          "variant": "C",
+          "direction": "石砌侧廊与帆布遮棚连接的救治区",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S23_赤月伤兵营/S23_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2668496,
+          "sha256": "b38288ef7fa8cb8930e3b727f89a14e8a088d127b21d1ea0096c446f99a92ff0"
+        },
+        {
+          "key": "S23_D",
+          "variant": "D",
+          "direction": "庄园外墙边宽阔单排治疗帐篷，物资区独立",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S23_赤月伤兵营/S23_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2724908,
+          "sha256": "dfc6c66ae09e46a318560534156cd4db19d8751b358013d334d1fba9fd8609a3"
+        }
+      ]
+    },
+    {
+      "id": "S24",
+      "name": "赤月城回廊／掳走地点",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S24_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S24_赤月城回廊_掳走地点/S24_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2296468,
+          "sha256": "ea832e038f0f764f9b566dd2d823e4ff533fdc49b5caedf2244fccd6bff8dd1b"
+        },
+        {
+          "key": "S24_B",
+          "variant": "B",
+          "direction": "转折的内庭圆拱回廊，深门洞藏出入口",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S24_赤月城回廊_掳走地点/S24_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2435644,
+          "sha256": "b877e6ea877b44c180b17875b6f9c6455737ffda975de4b32d98c964219834d6"
+        },
+        {
+          "key": "S24_C",
+          "variant": "C",
+          "direction": "木梁廊道连接两处石拱庭院入口",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S24_赤月城回廊_掳走地点/S24_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2262738,
+          "sha256": "d496bfe15f6957e03c865314a374fab8a736499f3ae2976764fd65379b79b6f4"
+        },
+        {
+          "key": "S24_D",
+          "variant": "D",
+          "direction": "宽拱与连续矮栏构成侧庭回廊，尽头有转角",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S24_赤月城回廊_掳走地点/S24_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2349449,
+          "sha256": "aa585e5ddf54d3aaf90987dfc56298eec723b2786eb0b072e813f0f9d6c3c927"
+        }
+      ]
+    },
+    {
+      "id": "S27",
+      "name": "索菲亚房门外",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S27_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S27_索菲亚房门外/S27_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2078685,
+          "sha256": "35c043d58ec15535df2fadf6d6a1bcd32a712cfa63d20c6a616fb1a995e6da9f"
+        },
+        {
+          "key": "S27_B",
+          "variant": "B",
+          "direction": "宽石框门洞，完整深胡桃木双门，浅色墙",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S27_索菲亚房门外/S27_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2242439,
+          "sha256": "65bbaab69745c9f10b2a7660573381ff5d6b50b40bd0a18f4eb742dcac9c9f3c"
+        },
+        {
+          "key": "S27_C",
+          "variant": "C",
+          "direction": "木梁走廊内完整圆拱双门，旧银五金",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S27_索菲亚房门外/S27_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2198910,
+          "sha256": "85d9a4e7bd87b687758afe65344ab2259b54e31d99e8b08a9ba1d353ddd358fd"
+        },
+        {
+          "key": "S27_D",
+          "variant": "D",
+          "direction": "庭院拱廊内凹门廊，完整胡桃木门与低矮门阶",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S27_索菲亚房门外/S27_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 1993168,
+          "sha256": "71f9a9cabd4f812f09dea5d0f7be1eb597e4842549480d124e01e08aa6e9443d"
+        }
+      ]
+    },
+    {
+      "id": "S28",
+      "name": "赤月长街葬礼区",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S28_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S28_赤月长街葬礼区/S28_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2514651,
+          "sha256": "37c97a2d77d913e38660b53c1c13f2eeda70bf9d6f245cd948984bd748f6eeea"
+        },
+        {
+          "key": "S28_B",
+          "variant": "B",
+          "direction": "宽直欧式街道，葬礼区置于侧边拱廊",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S28_赤月长街葬礼区/S28_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2912425,
+          "sha256": "3d1d2e3c37018689bdd58d768da94cd71f853166b106edb56bd37c9d3f2080d6"
+        },
+        {
+          "key": "S28_C",
+          "variant": "C",
+          "direction": "缓坡赭红瓦街道，低台葬礼区和完整通行路",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S28_赤月长街葬礼区/S28_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2536785,
+          "sha256": "b1f04e0d0dfcd79d5330f6bfa30a4fa2a7f2abe56e655bb95f77f21506a34d2d"
+        },
+        {
+          "key": "S28_D",
+          "variant": "D",
+          "direction": "小型街口广场连接长街，葬礼用品靠实墙摆放",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S28_赤月长街葬礼区/S28_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3012328,
+          "sha256": "5141af3e46feda9a97e6eb0d0348c1da5688034806803b699502fbdf0e4cf71d"
+        }
+      ]
+    },
+    {
+      "id": "S29",
+      "name": "赤月墓地／简葬点",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S29_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S29_赤月墓地_简葬点/S29_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3274773,
+          "sha256": "0a765341652dabfa8593d0ea789fa226fac702fed24e08440ce8857e3a347323"
+        },
+        {
+          "key": "S29_B",
+          "variant": "B",
+          "direction": "缓坡黄沙路穿过简朴墓地，石标有序疏排",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S29_赤月墓地_简葬点/S29_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3086105,
+          "sha256": "6f16b562e19027466148576c7420551531b0104e50dd7d6ec254c73af932af9b"
+        },
+        {
+          "key": "S29_C",
+          "variant": "C",
+          "direction": "低石围墙环绕墓地，黄沙主路通向新墓",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S29_赤月墓地_简葬点/S29_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3249255,
+          "sha256": "26d35567fc8e9678726964c7a94cd90f1c3176aebf5a20477560ce47a2ad7ae4"
+        },
+        {
+          "key": "S29_D",
+          "variant": "D",
+          "direction": "柏树边的宽黄沙小径与低矮墓石，简葬点清楚",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S29_赤月墓地_简葬点/S29_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3116900,
+          "sha256": "5cf5e8d35d47eda81df7117fc7b4ec8908edf5ad0683bf38ef9af5f18488549a"
+        }
+      ]
+    },
+    {
+      "id": "S30",
+      "name": "索菲亚书房",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S30_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S30_索菲亚书房/S30_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2375745,
+          "sha256": "36eae16cabdfcf014115ed9812eab84a1a0b0c47586c902bc2b1ac49115ae74c"
+        },
+        {
+          "key": "S30_B",
+          "variant": "B",
+          "direction": "宽拱窗下独立书桌，侧壁胡桃木书柜",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S30_索菲亚书房/S30_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2323195,
+          "sha256": "1a1d31bf546000b3e53b7120ca45f3e0a9c3441c245f6db98390a801d0798af0"
+        },
+        {
+          "key": "S30_C",
+          "variant": "C",
+          "direction": "木梁高顶书房，阅读壁龛与窗边长桌",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S30_索菲亚书房/S30_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2512149,
+          "sha256": "dfe01b317b635a85dc6aea8d132bc8419af4e9a8a9e8f4bb4882364de21e288d"
+        },
+        {
+          "key": "S30_D",
+          "variant": "D",
+          "direction": "两间相通的书房，前侧会谈桌后侧藏书",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S30_索菲亚书房/S30_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2270408,
+          "sha256": "7674d8edb01b741b56448b1dca9573301610fb03a96d3111ba0d1ca36a8a3ed8"
+        }
+      ]
+    },
+    {
+      "id": "S31",
+      "name": "赤月庄园广场",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S31_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S31_赤月庄园广场/S31_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2419086,
+          "sha256": "19087c6dc3f6b87fe8b4a850b01f0e20103d69956b7029712886902b22f22d03"
+        },
+        {
+          "key": "S31_B",
+          "variant": "B",
+          "direction": "矩形欧式庄园广场，连续二层拱廊",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S31_赤月庄园广场/S31_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2896098,
+          "sha256": "c9046509ec5ef831f8a323ebf21966ea753eb851aeac62d194742d4d9830a968"
+        },
+        {
+          "key": "S31_C",
+          "variant": "C",
+          "direction": "梯形庭院广场，宽主阶与左右对称翼楼",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S31_赤月庄园广场/S31_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2837725,
+          "sha256": "346cc2f64e5f32c3f4dbc6add07b870803b114fdfe0798563fd9b9db21cb373f"
+        },
+        {
+          "key": "S31_D",
+          "variant": "D",
+          "direction": "椭圆中央空地，三面圆拱廊连接完整家族建筑",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S31_赤月庄园广场/S31_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2972057,
+          "sha256": "428011cc6a6435b450ef4f9c23740f6cec1c0618e0e1d6928632e4392ab3c0cb"
+        }
+      ]
+    },
+    {
+      "id": "S32",
+      "name": "赤月议事大厅／议事厅",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S32_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S32_赤月议事大厅_议事厅/S32_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2351224,
+          "sha256": "6173ee13af0b29000f155d4d42e0049c9c862341d815ddfefde99e6c9fb32b3c"
+        },
+        {
+          "key": "S32_B",
+          "variant": "B",
+          "direction": "宽横向议事厅，两列同款高靠背椅围长桌",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S32_赤月议事大厅_议事厅/S32_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2819070,
+          "sha256": "28efdb3f41bfeea2645251568389ebafbe31bcd4899d473d6ba5681c43f3063d"
+        },
+        {
+          "key": "S32_C",
+          "variant": "C",
+          "direction": "三跨圆拱会议厅，U形胡桃木长桌与同款高背椅",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S32_赤月议事大厅_议事厅/S32_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2714254,
+          "sha256": "e9d52c04e13a622cb7641ae60ef04a21308b0228e2c070ebb81bdb831ffc116a"
+        },
+        {
+          "key": "S32_D",
+          "variant": "D",
+          "direction": "木梁高厅，双列平行长桌，中间宽轴线与同款高背椅",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S32_赤月议事大厅_议事厅/S32_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2720126,
+          "sha256": "0fc58eb1ac829d4bc60f95b886be02aa7efad371f2eb86291cb74224efe61ffd"
+        }
+      ]
+    },
+    {
+      "id": "S40",
+      "name": "庄园外围污染森林与溪流",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S40_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S40_庄园外围污染森林与溪流/S40_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3227592,
+          "sha256": "e890cbb7641efd07c10cfeae3c7081796b89b2ec4c554767c7f7a0296b644498"
+        },
+        {
+          "key": "S40_B",
+          "variant": "B",
+          "direction": "污染溪流穿过灰绿林地，两岸树根裸露",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S40_庄园外围污染森林与溪流/S40_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3476239,
+          "sha256": "d1da1ea9ab30451d126d7bff26f354a14bb4b4203def45ff6400ec6f6c2b7285"
+        },
+        {
+          "key": "S40_C",
+          "variant": "C",
+          "direction": "浅溪分支绕过小石洲，暗红污染沿岸裂隙",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S40_庄园外围污染森林与溪流/S40_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3314352,
+          "sha256": "c5126bf4b539ef5e17e32f262097378ad2425aad84dbdd091b53eca263fef616"
+        },
+        {
+          "key": "S40_D",
+          "variant": "D",
+          "direction": "林地窄沟中的蜿蜒溪流，低矮天然石岸",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S40_庄园外围污染森林与溪流/S40_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3362812,
+          "sha256": "2501a948a8c4de1e3f079856f332d346c3ea117b9c4fd830cd6f599cde4dfdca"
+        }
+      ]
+    },
+    {
+      "id": "S42",
+      "name": "赤月藏书馆",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S42_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S42_赤月藏书馆/S42_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2081060,
+          "sha256": "0c222f78cfe79b93f78746870f90b012b09775bb153c6cff3d781e0b2f6e926c"
+        },
+        {
+          "key": "S42_B",
+          "variant": "B",
+          "direction": "双层胡桃木藏书架，宽阅读中厅",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S42_赤月藏书馆/S42_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2582276,
+          "sha256": "f694e1ebc8d39a0948cd286aca1650839c216faac69e892ebf20549b283a875b"
+        },
+        {
+          "key": "S42_C",
+          "variant": "C",
+          "direction": "三跨圆拱藏书馆，书架嵌入深石壁龛",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S42_赤月藏书馆/S42_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2430700,
+          "sha256": "7fcf2e4ceff68bc2f66ef4830b8fde17e9a9d85805e0b8d284a57116a6bd1d0b"
+        },
+        {
+          "key": "S42_D",
+          "variant": "D",
+          "direction": "木梁高顶藏书馆，环形上层步道与长阅读桌",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S42_赤月藏书馆/S42_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2389731,
+          "sha256": "d7e7d2296308850c36ae111410f2f0396c18b7317f2a68692b5cfae84cb3f3a1"
+        }
+      ]
+    },
+    {
+      "id": "S48",
+      "name": "赤月城中央水井",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S48_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S48_赤月城中央水井/S48_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3206165,
+          "sha256": "281cc0d36d190b4cb00a18623f10317301f379cade58f2e5693d56145ef1481d"
+        },
+        {
+          "key": "S48_B",
+          "variant": "B",
+          "direction": "八角低井台置于欧式街口广场",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S48_赤月城中央水井/S48_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3228156,
+          "sha256": "39b29694600fbd5b810e8c3d75a7b82738d8be47458f571ab1db8cc588ca4fd0"
+        },
+        {
+          "key": "S48_C",
+          "variant": "C",
+          "direction": "圆形石井与短木轱辘，周围完整伊比利亚拱廊",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S48_赤月城中央水井/S48_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3204355,
+          "sha256": "729855196759e0dd990818b8d16c2344d3871751560679d15ad2585402dab4b9"
+        },
+        {
+          "key": "S48_D",
+          "variant": "D",
+          "direction": "方形厚石井沿、木盖架、旁边宽通行路",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S48_赤月城中央水井/S48_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 3123840,
+          "sha256": "20fcaee166da6b9f30644db8a555e06ce550f6c033ac4b5b700bbdba6bd99f1c"
+        }
+      ]
+    },
+    {
+      "id": "S53",
+      "name": "赤月地牢封尸石牢",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E04",
+        "E10"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S53_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S53_赤月地牢封尸石牢/S53_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2279678,
+          "sha256": "c5238b6322d1b51905ffb1a1ed134abebc42be0d6fda1cdbe55464e6662e2507"
+        },
+        {
+          "key": "S53_B",
+          "variant": "B",
+          "direction": "长方形封尸石牢，中央低石台与侧边军制封印",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S53_赤月地牢封尸石牢/S53_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2442952,
+          "sha256": "83652d89183c28e8cb8cb477eacf14566797e073b133cda5d3f1ea3c96fd8c37"
+        },
+        {
+          "key": "S53_C",
+          "variant": "C",
+          "direction": "低拱石牢，封尸台嵌入后壁宽凹室",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S53_赤月地牢封尸石牢/S53_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2781736,
+          "sha256": "3b51c3c62e65c34ced27fe9f32a895139076a8d57526868dd241686ddc4851c5"
+        },
+        {
+          "key": "S53_D",
+          "variant": "D",
+          "direction": "近圆形地下石室，平台居中并留绕行空间",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S53_赤月地牢封尸石牢/S53_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2795580,
+          "sha256": "2979d095fe1a62dd64b84d38d72fdce2d6a0be5c7df1ec72360c1400b85a884c"
+        }
+      ]
+    },
+    {
+      "id": "S54",
+      "name": "赤月地牢甬道",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S54_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S54_赤月地牢甬道/S54_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2616437,
+          "sha256": "862285fec850b0a33d49d8b9de7e86b41c75b025848dcad05a00fb8a1f9456ac"
+        },
+        {
+          "key": "S54_B",
+          "variant": "B",
+          "direction": "宽石拱地牢甬道，规律侧门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S54_赤月地牢甬道/S54_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2638542,
+          "sha256": "266b7bd30549ae99c53f23ebbe36a2877c4d48c72f000d1177fa1696a6a45636"
+        },
+        {
+          "key": "S54_C",
+          "variant": "C",
+          "direction": "平直石梁地下走廊，低侧灯与铁门",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S54_赤月地牢甬道/S54_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2512537,
+          "sha256": "81f13bfbf97203b8a25c273296d46f585b4c8b77d3f24234434e69519261abe3"
+        },
+        {
+          "key": "S54_D",
+          "variant": "D",
+          "direction": "转角阶梯甬道，厚墙门洞重复出现",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S54_赤月地牢甬道/S54_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2373718,
+          "sha256": "fb57f03a2c7a267f7a307b89be995553b48c1c2ee597cad398e8192fc8f86035"
+        }
+      ]
+    },
+    {
+      "id": "S56",
+      "name": "赤月边境防线／哨塔与闸口",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01",
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S56_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S56_赤月边境防线_哨塔与闸口/S56_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3298584,
+          "sha256": "b3f2b1e853ea5896bd4732da70b7e306edd676eee7201dfc07eb8f126da47934"
+        },
+        {
+          "key": "S56_B",
+          "variant": "B",
+          "direction": "方形石哨塔与厚木闸口，沿谷口布防",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S56_赤月边境防线_哨塔与闸口/S56_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3532551,
+          "sha256": "a1c3d320dbaffd99809f3c11f8c39f0965d6c512d08bf328bf0d195fd06a5fc0"
+        },
+        {
+          "key": "S56_C",
+          "variant": "C",
+          "direction": "双低塔夹住窄关口，外侧木栅防线",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S56_赤月边境防线_哨塔与闸口/S56_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3300277,
+          "sha256": "d871468ef29269d6775273819c6c5dfae10e6504abab9a2c4561900ff952aac2"
+        },
+        {
+          "key": "S56_D",
+          "variant": "D",
+          "direction": "石坡上的阶梯哨塔与横向闸门防线",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S56_赤月边境防线_哨塔与闸口/S56_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3321283,
+          "sha256": "9b076997473690fe4e5b3fca394bfd1e8ee06be501237696e9bf98102b4a6519"
+        }
+      ]
+    },
+    {
+      "id": "S63",
+      "name": "赤月城庭院训练区",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S63_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S63_赤月城庭院训练区/S63_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2773088,
+          "sha256": "a891db9967628e9518765d1c36e354e0b81f2a4aba89f83d0991422e4557951b"
+        },
+        {
+          "key": "S63_B",
+          "variant": "B",
+          "direction": "长方形训练院，侧边器械架与宽阔对练面",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S63_赤月城庭院训练区/S63_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2739561,
+          "sha256": "409a25a1a669bab6e609482c4d2e6d306a0f86225c2218301dd6a1775857c11f"
+        },
+        {
+          "key": "S63_C",
+          "variant": "C",
+          "direction": "半圆拱廊围合训练区，石沙混合地面",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S63_赤月城庭院训练区/S63_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2776679,
+          "sha256": "029bc629135dddd11ba499fe6d31d7015a50d1afb896df5a615af78a2adee76d"
+        },
+        {
+          "key": "S63_D",
+          "variant": "D",
+          "direction": "庄园侧庭阶梯训练平台，主区平整宽阔",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S63_赤月城庭院训练区/S63_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3152839,
+          "sha256": "2af99ea2fb987d71963d663f1ec24010bc8ac1c6e21b86933d9ea52a676149f0"
+        }
+      ]
+    },
+    {
+      "id": "S64",
+      "name": "赤月城最高屋顶",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S64_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S64_赤月城最高屋顶/S64_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2589355,
+          "sha256": "20790ec469c89a59e5358bc96dc624a539a7b61a71665eced0831a601e6cefb7"
+        },
+        {
+          "key": "S64_B",
+          "variant": "B",
+          "direction": "宽平城堡屋顶平台，赭红瓦坡檐围边",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S64_赤月城最高屋顶/S64_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2442733,
+          "sha256": "e864c1e18eca8290d428ec3a331e6f937cdaad74bd5d2ce59fa81516671ef4e1"
+        },
+        {
+          "key": "S64_C",
+          "variant": "C",
+          "direction": "最高方塔屋顶与邻接石步道",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S64_赤月城最高屋顶/S64_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2511901,
+          "sha256": "b3dfba248dddae0f48282bd772836747f8b9d9f580ebc2880facd0296f817ff0"
+        },
+        {
+          "key": "S64_D",
+          "variant": "D",
+          "direction": "带低石护栏的宽屋顶露台，可俯瞰整座赤月城",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S64_赤月城最高屋顶/S64_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2666971,
+          "sha256": "31b0a7efb8543aba08661f297cd345fd31af0cac4bbdbc5a7cb8dc4716cbc6ce"
+        }
+      ]
+    },
+    {
+      "id": "S65",
+      "name": "赤月城全城夜景",
+      "kind": "场景",
+      "group_name": "赤月领地／蒙特斯家族",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S65_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S65_赤月城全城夜景/S65_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2204127,
+          "sha256": "f16d99b23bef0f4ca10654c6817d67d1b89f45d3a7efb4207e08e3a756b36dad"
+        },
+        {
+          "key": "S65_B",
+          "variant": "B",
+          "direction": "赤月城沿缓坡层叠，庄园与城墙建立明晰中轴",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S65_赤月城全城夜景/S65_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2280566,
+          "sha256": "57b394f4db900fd157a674e33d0772dcbcf1d8d9356dee7256eb85c4a23f8691"
+        },
+        {
+          "key": "S65_C",
+          "variant": "C",
+          "direction": "赤月城围绕中央欧式广场展开，低赭红瓦天际线",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S65_赤月城全城夜景/S65_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2730150,
+          "sha256": "2b8ba2b247484c0b9e5097d6780a06c9cee765dbed5bd9b233ebad446f3c566f"
+        },
+        {
+          "key": "S65_D",
+          "variant": "D",
+          "direction": "河谷两级台地上的赤月城，拱廊庄园位于最高点",
+          "relative": "场景/A_赤月领地_蒙特斯家族/S65_赤月城全城夜景/S65_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2572487,
+          "sha256": "c775273e00d5929534242c47b7d0264071c9fc3a1b59e5b34a8cd7bb46155e69"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "格斗场血月祭台",
+      "kind": "场景",
+      "group_name": "血影狼族／克鲁斯家族",
+      "emblem_ids": [
+        "E01",
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S07_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S07_格斗场血月祭台/S07_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2761868,
+          "sha256": "b448b59702736b1b1cd5b78a5ed6f87204fa1640a710e19e62f907616dfc3a5a"
+        },
+        {
+          "key": "S07_B",
+          "variant": "B",
+          "direction": "粗厚圆盘型血月祭台置于赤月格斗场中央",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S07_格斗场血月祭台/S07_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3104047,
+          "sha256": "b529e34f44aa9675d9b05b78aeab6b8193abf8e308d2dec98252525bf0fbd048"
+        },
+        {
+          "key": "S07_C",
+          "variant": "C",
+          "direction": "八角低台与四个锁链锚点组成血月装置，赤月场地保留",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S07_格斗场血月祭台/S07_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3366568,
+          "sha256": "f988a8637c91ac73ff889750f189ab8873a44e3991a81876ed1e8e396e8506c8"
+        },
+        {
+          "key": "S07_D",
+          "variant": "D",
+          "direction": "宽阔双级圆台中间浅凹仪式槽，红链向外连接",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S07_格斗场血月祭台/S07_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2811508,
+          "sha256": "fa1ad5baf736db5e01c2bfdc43c6d9a7026eb08bf1289fa9725d44d72b75dee7"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "血色森林领域",
+      "kind": "场景",
+      "group_name": "血影狼族／克鲁斯家族",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S12_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S12_血色森林领域/S12_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2560060,
+          "sha256": "4aa54e4b02267837fb3d077daa13ff7a47581ff28d37125f394f2e57800eb73b"
+        },
+        {
+          "key": "S12_B",
+          "variant": "B",
+          "direction": "扭曲深红树干围成开阔林地战斗面，无石柱无门",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S12_血色森林领域/S12_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2598647,
+          "sha256": "e5fb2cb785d1ab83cb2060ad6bc3c696bf9247d231694bcb8ab3bbded673138b"
+        },
+        {
+          "key": "S12_C",
+          "variant": "C",
+          "direction": "密集高树形成纵深通道，血红冠层与低矮灌木",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S12_血色森林领域/S12_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2558593,
+          "sha256": "7d6ad393c43980a80bfcc6488b21e1ce1aa7fcd0f8a44ac5945361a05d8ecc98"
+        },
+        {
+          "key": "S12_D",
+          "variant": "D",
+          "direction": "盘根交错的天然林间盆地，暗红落叶与远处林壁",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S12_血色森林领域/S12_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2664614,
+          "sha256": "4a05ce6f51a3255a67a41c9def051d9bae446a19b662cd9638c6bc7de22b0ea4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "银霜领域覆盖的大厅",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S13_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/C_王庭_维加王室与银月军制/S13_银霜领域覆盖的大厅/S13_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3147172,
+          "sha256": "44893e3e2cd34add987df038aa703828b4f376b0bc8c177e9eeb3b0b8a4ef9d2"
+        },
+        {
+          "key": "S13_B",
+          "variant": "B",
+          "direction": "三重圆拱家族横厅被银霜沿地面和墙脚覆盖",
+          "relative": "场景/C_王庭_维加王室与银月军制/S13_银霜领域覆盖的大厅/S13_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3333342,
+          "sha256": "f1e89a54751237070945dc0ade92d8354fcf2e7c6033d27896b92b4852d4e3ac"
+        },
+        {
+          "key": "S13_C",
+          "variant": "C",
+          "direction": "高木梁家族大厅中冰霜顺梁柱攀附",
+          "relative": "场景/C_王庭_维加王室与银月军制/S13_银霜领域覆盖的大厅/S13_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3352801,
+          "sha256": "d2fdc936d7b459619304be57bd39ba861f670655589860ad8272157f18d824ed"
+        },
+        {
+          "key": "S13_D",
+          "variant": "D",
+          "direction": "双层拱廊家族大厅结出克制冰棱，通行区仍清楚",
+          "relative": "场景/C_王庭_维加王室与银月军制/S13_银霜领域覆盖的大厅/S13_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3220779,
+          "sha256": "1314a8d4017ce858b8d35da1622b3662724e60b5e100f86d35dcd8d9d1f9ef64"
+        }
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "血影据点大殿",
+      "kind": "场景",
+      "group_name": "血影狼族／克鲁斯家族",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S16_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S16_血影据点大殿/S16_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2446765,
+          "sha256": "674255bd8a1f05754c96ecebbdd68e44cd2453cc95d49c35224f7e1ca740fc48"
+        },
+        {
+          "key": "S16_B",
+          "variant": "B",
+          "direction": "纵深堡垒大厅，两侧粗石柱与高台统治位",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S16_血影据点大殿/S16_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2749625,
+          "sha256": "826ce38183a4cedb2002025df04d0b9db6209eef3b40ca8429fded1c437da2e6"
+        },
+        {
+          "key": "S16_C",
+          "variant": "C",
+          "direction": "宽横向军事贵族大厅，低拱顶与厚石台阶",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S16_血影据点大殿/S16_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2752149,
+          "sha256": "43701856c0056b9fcd0463cc6b9669435e332188fe421c06924eed4989884b5d"
+        },
+        {
+          "key": "S16_D",
+          "variant": "D",
+          "direction": "双层军堡长厅，窄高窗，清楚的中央对峙区域",
+          "relative": "场景/B_血影狼族_克鲁斯家族/S16_血影据点大殿/S16_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2643565,
+          "sha256": "db27b60dd1fb76cbcc1fdf85a66b71aeda602c81bba8b31b78c6cfad2d6b1b2f"
+        }
+      ]
+    },
+    {
+      "id": "S33",
+      "name": "王庭议事大厅",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E03"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S33_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S33_王庭议事大厅/S33_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2344017,
+          "sha256": "19ce4f75dbe968a00b41a1368894b6542d32174cfc26c9cbee8cccbbff80d354"
+        },
+        {
+          "key": "S33_B",
+          "variant": "B",
+          "direction": "三跨高穹王庭会议厅，中央宽轴线和两侧阶梯席",
+          "relative": "场景/C_王庭_维加王室与银月军制/S33_王庭议事大厅/S33_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2848429,
+          "sha256": "d8e2c799a66e346ffa88922b1ac3fb8014b1b531db249091186977b0e7d5c519"
+        },
+        {
+          "key": "S33_C",
+          "variant": "C",
+          "direction": "横向皇家议事厅，半圆席位面向主位",
+          "relative": "场景/C_王庭_维加王室与银月军制/S33_王庭议事大厅/S33_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2824887,
+          "sha256": "ed1d1a9ade82e1ac9b772edf180e3af90506bbabd0da6a6c119ea20252ac4ab1"
+        },
+        {
+          "key": "S33_D",
+          "variant": "D",
+          "direction": "双层石拱皇家议事厅，内圈陈设庄严、中央留空",
+          "relative": "场景/C_王庭_维加王室与银月军制/S33_王庭议事大厅/S33_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2876870,
+          "sha256": "3666343ddf4fc4617188e45996ac2aee2c632f2ba8d809dcf96d07ea31e067dc"
+        }
+      ]
+    },
+    {
+      "id": "S34",
+      "name": "王庭地牢入口与甬道",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S34_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S34_王庭地牢入口与甬道/S34_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2602753,
+          "sha256": "790a4a8ad76d4202c2a7d2358f0451f00afdf043c1ba29c7329fa9f4f4d3b44b"
+        },
+        {
+          "key": "S34_B",
+          "variant": "B",
+          "direction": "笔直三跨石拱甬道，厚重铁门与侧边灯龛",
+          "relative": "场景/C_王庭_维加王室与银月军制/S34_王庭地牢入口与甬道/S34_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2561464,
+          "sha256": "10a812169cb576faae6f73b4ba3a528a0a6ac640b42729a70ebefbd1cca4c00c"
+        },
+        {
+          "key": "S34_C",
+          "variant": "C",
+          "direction": "折线地下甬道，宽平台连接短台阶",
+          "relative": "场景/C_王庭_维加王室与银月军制/S34_王庭地牢入口与甬道/S34_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2839791,
+          "sha256": "ba5e5ffca13e592d637962ebd3fe8cdbe4938db4b9fa0c3e9a0f99194df4e495"
+        },
+        {
+          "key": "S34_D",
+          "variant": "D",
+          "direction": "低宽桶拱廊，连续侧门与清楚的尽头栅门",
+          "relative": "场景/C_王庭_维加王室与银月军制/S34_王庭地牢入口与甬道/S34_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2625799,
+          "sha256": "f479648f5c01562c547aba853803afceff8e4b449f94ccf336216f2ee2ee4246"
+        }
+      ]
+    },
+    {
+      "id": "S37",
+      "name": "王庭地牢囚室",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S37_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S37_王庭地牢囚室/S37_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2505949,
+          "sha256": "19c6f93613b0f0716b3cb305b0ce28701ae6835e53f2489f375c3782a169fc1f"
+        },
+        {
+          "key": "S37_B",
+          "variant": "B",
+          "direction": "深长石牢，沿壁石床与正面铁栅门",
+          "relative": "场景/C_王庭_维加王室与银月军制/S37_王庭地牢囚室/S37_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2898340,
+          "sha256": "05e963e15b62accbf3f0ca7c435da052bc369e263db1f9b6f819501a9860561e"
+        },
+        {
+          "key": "S37_C",
+          "variant": "C",
+          "direction": "近方形小石牢，侧面高窄窗与整块石床",
+          "relative": "场景/C_王庭_维加王室与银月军制/S37_王庭地牢囚室/S37_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2804236,
+          "sha256": "90736c9ae0a4190a4c4327ca0d2828a259ee3f8038039e061037de679bc9d525"
+        },
+        {
+          "key": "S37_D",
+          "variant": "D",
+          "direction": "厚桶拱囚室，后壁锁链锚点与宽门洞",
+          "relative": "场景/C_王庭_维加王室与银月军制/S37_王庭地牢囚室/S37_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3042764,
+          "sha256": "6ca444327bd16e42ab2ec7ed363ef8ca2906bf45e6d7c27101d08c805bb0828a"
+        }
+      ]
+    },
+    {
+      "id": "S38",
+      "name": "王庭地牢外僻静角落",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S38_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/C_王庭_维加王室与银月军制/S38_王庭地牢外僻静角落/S38_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2703735,
+          "sha256": "81c278d6fdb48dd9a8e03597d68f3bc5b186dec328f408fc8a58d18ff2020cd0"
+        },
+        {
+          "key": "S38_B",
+          "variant": "B",
+          "direction": "狭长墙角后的小石拱凹室",
+          "relative": "场景/C_王庭_维加王室与银月军制/S38_王庭地牢外僻静角落/S38_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2628592,
+          "sha256": "f171d13e4912d6cd460e5c4808a217d7800be3a2375c099c3fe9bbf6b26a8595"
+        },
+        {
+          "key": "S38_C",
+          "variant": "C",
+          "direction": "甬道转弯外的安静阶梯平台",
+          "relative": "场景/C_王庭_维加王室与银月军制/S38_王庭地牢外僻静角落/S38_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2613007,
+          "sha256": "2510e6dc5be6a55b3446577bc2faec42ed846f65a0accf28da9c84af7c02fff0"
+        },
+        {
+          "key": "S38_D",
+          "variant": "D",
+          "direction": "厚石柱后隐蔽侧廊，微弱侧光",
+          "relative": "场景/C_王庭_维加王室与银月军制/S38_王庭地牢外僻静角落/S38_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2582417,
+          "sha256": "bcd85bc8eaed8e7a037a8b15f1fc73ed8a465c0ded8ff765beb20e7fea6d2a28"
+        }
+      ]
+    },
+    {
+      "id": "S39",
+      "name": "王庭地牢审讯室",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S39_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S39_王庭地牢审讯室/S39_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2152742,
+          "sha256": "291171fed5d90aa2c9c5d896b07f7cca61d9aab374f286124bc65850fd3c1163"
+        },
+        {
+          "key": "S39_B",
+          "variant": "B",
+          "direction": "长石桌与单椅、后方铁门的审讯室",
+          "relative": "场景/C_王庭_维加王室与银月军制/S39_王庭地牢审讯室/S39_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2692219,
+          "sha256": "fedac6294f5016aaceead34454cec96d8d9f64facb8030d28d8c5ea4fedbb3f4"
+        },
+        {
+          "key": "S39_C",
+          "variant": "C",
+          "direction": "宽方石牢审讯厅，桌椅在中央、锁链沿侧壁",
+          "relative": "场景/C_王庭_维加王室与银月军制/S39_王庭地牢审讯室/S39_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2720064,
+          "sha256": "908fd4e2da8dd6da024833cb292ac0a6cc77ce5e7dd8f6a5db7f39791a0b9f81"
+        },
+        {
+          "key": "S39_D",
+          "variant": "D",
+          "direction": "带一段低拱侧室的审讯室，明暗区域分明",
+          "relative": "场景/C_王庭_维加王室与银月军制/S39_王庭地牢审讯室/S39_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2787542,
+          "sha256": "5bb47bd6f604a68d57d9c6e6819d0e90d5fe3e08c0500f9cacd7429206086ed9"
+        }
+      ]
+    },
+    {
+      "id": "S61",
+      "name": "王庭大殿／狼骨王座厅",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E03"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S61_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S61_王庭大殿_狼骨王座厅/S61_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2195645,
+          "sha256": "0a091cd5c4e506beb428f3412d61d1be35e4e8027a4514fb65a652fbbb1f89e1"
+        },
+        {
+          "key": "S61_B",
+          "variant": "B",
+          "direction": "高穹顶皇家王座厅，双列石柱与宽中轴",
+          "relative": "场景/C_王庭_维加王室与银月军制/S61_王庭大殿_狼骨王座厅/S61_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2431268,
+          "sha256": "2d81ea99e589e2888cfba6509c3a921bfb6529a0262507a79cea7a60aadc1353"
+        },
+        {
+          "key": "S61_C",
+          "variant": "C",
+          "direction": "宽横向皇家大殿，低阶加冕台与高拱主壁",
+          "relative": "场景/C_王庭_维加王室与银月军制/S61_王庭大殿_狼骨王座厅/S61_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2647795,
+          "sha256": "e784ea799d8b5299c7d754e30732829d8085d251a71696a50a68555e67092779"
+        },
+        {
+          "key": "S61_D",
+          "variant": "D",
+          "direction": "双层王庭回廊、通透高窗与单一庄严王座台",
+          "relative": "场景/C_王庭_维加王室与银月军制/S61_王庭大殿_狼骨王座厅/S61_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2669081,
+          "sha256": "dbeec0d2d5eff4a628135511939b845e5d9685e3362884acd6ef85a9fbbb90d9"
+        }
+      ]
+    },
+    {
+      "id": "S62",
+      "name": "王庭大殿外列阵前庭",
+      "kind": "场景",
+      "group_name": "王庭／维加王室与银月军制",
+      "emblem_ids": [
+        "E03",
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S62_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/C_王庭_维加王室与银月军制/S62_王庭大殿外列阵前庭/S62_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2373026,
+          "sha256": "5e9dc5875ce6bb8def8c2c0d266d7c09c1d04030a3d417b9e815de69b5e884b7"
+        },
+        {
+          "key": "S62_B",
+          "variant": "B",
+          "direction": "宽横向宫殿前庭，双翼拱廊与低阶大殿入口",
+          "relative": "场景/C_王庭_维加王室与银月军制/S62_王庭大殿外列阵前庭/S62_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2721046,
+          "sha256": "95413f180d0deb1a85f62b0c0632294c0905e073d9bded091c24014f15aba8ab"
+        },
+        {
+          "key": "S62_C",
+          "variant": "C",
+          "direction": "三级宽台阶与对称皇家石柱前庭",
+          "relative": "场景/C_王庭_维加王室与银月军制/S62_王庭大殿外列阵前庭/S62_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2972894,
+          "sha256": "a17b829924a6816c3798532b528a998e99560706497a36a63125f4842f2429e8"
+        },
+        {
+          "key": "S62_D",
+          "variant": "D",
+          "direction": "矩形列阵广场，两侧长廊与中央宽仪式通道",
+          "relative": "场景/C_王庭_维加王室与银月军制/S62_王庭大殿外列阵前庭/S62_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2766139,
+          "sha256": "f79507d3269f925909d80a9263e7e38222ff82b86c51caaafebb472770d293af"
+        }
+      ]
+    },
+    {
+      "id": "S01",
+      "name": "北境冰原战场",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S01_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S01_北境冰原战场/S01_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2906047,
+          "sha256": "614268638328d5e085f7d741fe0f7a28e63caea3e43f7e2e703df8354b1b7aac"
+        },
+        {
+          "key": "S01_B",
+          "variant": "B",
+          "direction": "蓝冰极地风：巨大半透明蓝色冰川墙、锋利冰脊、冻裂蓝冰河床",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S01_北境冰原战场/S01_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3137582,
+          "sha256": "732e840d8ff943b260d6377012c58c46af03082bc89126c5af8de3a4be484071"
+        },
+        {
+          "key": "S01_C",
+          "variant": "C",
+          "direction": "黑岩冻原风：暴露的黑色玄武岩与白雪斑块、矮石台、稀疏硬冰",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S01_北境冰原战场/S01_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3321043,
+          "sha256": "2b4e3bc8a669bfc117e77159cd7609c2deed94b9e0108a6cb7f03e8ff86ff87e"
+        },
+        {
+          "key": "S01_D",
+          "variant": "D",
+          "direction": "雪海极简风：乳白风蚀雪丘、长波浪雪脊、极少黑岩、宽阔平缓交战面",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S01_北境冰原战场/S01_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2813011,
+          "sha256": "65a329d834afaa2ac912cbbba1960a4021405bbd9b8a40b0c2122f8d2260de71"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "五年前北境记忆战场",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S02_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S02_五年前北境记忆战场/S02_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2943098,
+          "sha256": "214ccadae77be4d0e230766688632ad001ede3112c23a073421b6fff81812874"
+        },
+        {
+          "key": "S02_B",
+          "variant": "B",
+          "direction": "蓝冰回忆战场：冻结河面、蓝色冰拱、锋利低冰脊",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S02_五年前北境记忆战场/S02_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3050978,
+          "sha256": "30581624e6a8c7878f1ba34d83029178eb88a1a06e41dc646e256a51b50a8456"
+        },
+        {
+          "key": "S02_C",
+          "variant": "C",
+          "direction": "黑岩回忆战场：针叶林边、黑色碎岩与冷白积雪、宽林缘空地",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S02_五年前北境记忆战场/S02_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3100392,
+          "sha256": "940c8c77b639c340cce3420743311e07ab2a11f0cecca078bf28fe8a2666b74e"
+        },
+        {
+          "key": "S02_D",
+          "variant": "D",
+          "direction": "雪原回忆战场：大面积柔软雪堤、乳白曲面地形、少量焦黑断木",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S02_五年前北境记忆战场/S02_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2714692,
+          "sha256": "67e5331466569c2644f71b3ce26c663ec65369e86be56ed5d760833ba934b30a"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "五年前北境深渊战场",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S03_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S03_五年前北境深渊战场/S03_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2794899,
+          "sha256": "6342dc1fb5f314d83f1a3f26bd055ca4bf0bb6302046a543747bc94a2e361390"
+        },
+        {
+          "key": "S03_B",
+          "variant": "B",
+          "direction": "蓝冰深渊：锯齿蓝冰断崖、透明冰壁、辽阔厚冰平台",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S03_五年前北境深渊战场/S03_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3062949,
+          "sha256": "dcc8f46f06def9ef06dc01e5f348c75ee03a4469dbd132df68d9a0294d5664b8"
+        },
+        {
+          "key": "S03_C",
+          "variant": "C",
+          "direction": "火山冻裂深渊：黑色玄武岩直壁、冰雪覆盖的块状悬崖平台",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S03_五年前北境深渊战场/S03_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2816532,
+          "sha256": "c95cdddba9f7ade0c4fa59b5d06614821c1ed95a6a9aeb7c8910b33144fbb552"
+        },
+        {
+          "key": "S03_D",
+          "variant": "D",
+          "direction": "白垩冰峡深渊：灰白层状绝壁、圆润雪檐、苍白巨大峡口",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S03_五年前北境深渊战场/S03_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2920619,
+          "sha256": "3af841b373e3a7f1ed430f27f75c67b64874777330aa40ae65201e200c62f221"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "禁林旧祭坛",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S05_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S05_禁林旧祭坛/S05_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3155107,
+          "sha256": "532560f13697f092f80b9450a8f37e49011679d16caceb84b2c802794184d0a2"
+        },
+        {
+          "key": "S05_B",
+          "variant": "B",
+          "direction": "史前巨石厅：巨大粗石门架与横梁、低矮封印石台、密林低雾",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S05_禁林旧祭坛/S05_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3113736,
+          "sha256": "6490ea3f34dc5692699a60cef9f6e2f33f110698262ae85c85571159eb597837"
+        },
+        {
+          "key": "S05_C",
+          "variant": "C",
+          "direction": "古典失落遗迹风：暖灰石灰岩方台、几何石阶与断裂粗石檐、蕨类包围",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S05_禁林旧祭坛/S05_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3345853,
+          "sha256": "6cbf727756ff5de3cc356dffae3f7923229ac0c7a6b78eb44ad6e5edcef13f20"
+        },
+        {
+          "key": "S05_D",
+          "variant": "D",
+          "direction": "树根圣所风：盘曲巨根包裹平整黑石祭面、柔软苔藓、天然木石交融",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S05_禁林旧祭坛/S05_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3424874,
+          "sha256": "bdcc1f2490cdefe7ffa3c4703916e28c0b0d7ffc1c279a8f069c0840c32f1525"
+        }
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "黑暗祭坛／血池改造室",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E06",
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S18_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S18_黑暗祭坛_血池改造室/S18_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2585782,
+          "sha256": "93c976492c39e845be5871427b15e5a62f53b9fbb3c5c495087fd41ea0feb976"
+        },
+        {
+          "key": "S18_B",
+          "variant": "B",
+          "direction": "椭圆浅血池包围完整封印石盘",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S18_黑暗祭坛_血池改造室/S18_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2620154,
+          "sha256": "ec578dcb83687b1d620edcd508abbb26d32d33d5284020228ae2f32deff7a322"
+        },
+        {
+          "key": "S18_C",
+          "variant": "C",
+          "direction": "方形地下仪式室，中央圆池与宽阔环形步道",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S18_黑暗祭坛_血池改造室/S18_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2824215,
+          "sha256": "7cfccb5c00124ebf05bcb64756fe7224ef31550883e5a28061ff55ba354c6529"
+        },
+        {
+          "key": "S18_D",
+          "variant": "D",
+          "direction": "天然洞窟中双级池沿，封印石盘低于宽厚外缘",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S18_黑暗祭坛_血池改造室/S18_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2814653,
+          "sha256": "1c1405c1a67a9c6fe65d9d8d3683a72416d73c3ec4505f7028245469b2057e7b"
+        }
+      ]
+    },
+    {
+      "id": "S21",
+      "name": "极渊外围营地",
+      "kind": "场景",
+      "group_name": "联军／远征临时驻地",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S21_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/E_联军_远征临时驻地/S21_极渊外围营地/S21_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2568170,
+          "sha256": "352cc93da7655279d089a4cc5f38c1aee56817392b42d4cc75875994507cd850"
+        },
+        {
+          "key": "S21_B",
+          "variant": "B",
+          "direction": "仪仗圆帐野营：小型米白圆顶亚麻帐、深色木基座、整齐绕中心空地",
+          "relative": "场景/E_联军_远征临时驻地/S21_极渊外围营地/S21_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2644503,
+          "sha256": "240658dedf5bef922225064689ead6759882497f656383cd478505f1edb6eafd"
+        },
+        {
+          "key": "S21_C",
+          "variant": "C",
+          "direction": "车队机动野营：两辆深棕皮革棚车、宽大斜拉雨篷、轮毂和货架外露",
+          "relative": "场景/E_联军_远征临时驻地/S21_极渊外围营地/S21_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2635874,
+          "sha256": "265a56592c7f72518d7273d9d22b6752644eb1e8adbf73ada3956e8bba2f12be"
+        },
+        {
+          "key": "S21_D",
+          "variant": "D",
+          "direction": "木架堡垒野营：粗木A形搭架、低矮横梁棚舍、灰绿蜡布、短木栅防线",
+          "relative": "场景/E_联军_远征临时驻地/S21_极渊外围营地/S21_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2717062,
+          "sha256": "262077512601ec352ad891389e28d7b2b64fccc6e45750831cc82733f75d241b"
+        }
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "极渊外围诱饵祭坛",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E06",
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S22_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S22_极渊外围诱饵祭坛/S22_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2755437,
+          "sha256": "9f0a791ad78b6139e309f0030b6a56b336e7d32684cdc825b987ac356a5e0eae"
+        },
+        {
+          "key": "S22_B",
+          "variant": "B",
+          "direction": "宽厚三圈封印圆台嵌于平坦风蚀岩面",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S22_极渊外围诱饵祭坛/S22_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3134945,
+          "sha256": "50236f18f00a108a6032f50346d55d2ad63b605a4ad94ca29f85de18eb60f140"
+        },
+        {
+          "key": "S22_C",
+          "variant": "C",
+          "direction": "低矮八角承台托起圆形封印，后方破石作为诱饵节点",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S22_极渊外围诱饵祭坛/S22_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2855040,
+          "sha256": "50e5756454ab8dfa56e02efa406a2c08600b471210dcfe784462663b5151b7c8"
+        },
+        {
+          "key": "S22_D",
+          "variant": "D",
+          "direction": "孤立大岩台顶面封印，周缘残破但通路完整",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S22_极渊外围诱饵祭坛/S22_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3062198,
+          "sha256": "5963900fe07bbd5927c71d448720c9b4722ed7140395556692b3727fc366d262"
+        }
+      ]
+    },
+    {
+      "id": "S25",
+      "name": "密林深处血阵／营救祭坛",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S25_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S25_密林深处血阵_营救祭坛/S25_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2097634,
+          "sha256": "6e15d2301e04554cba0a67819d6fc03c6574abe98f08153ee30ede25faa0d89a"
+        },
+        {
+          "key": "S25_B",
+          "variant": "B",
+          "direction": "低圆血阵石台，稀疏锚石和垂挂铁链",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S25_密林深处血阵_营救祭坛/S25_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2616921,
+          "sha256": "378f315013495feeab9c575bce2a1d933ca98b68007f57b0d5bcd3ac0dc6fe9c"
+        },
+        {
+          "key": "S25_C",
+          "variant": "C",
+          "direction": "树根围合的宽平血阵石盘，单枚黑暗锚石立后方",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S25_密林深处血阵_营救祭坛/S25_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2800881,
+          "sha256": "184402201f11a006670b56ae5975b0c97a339c76832214a620b073a34e44d8de"
+        },
+        {
+          "key": "S25_D",
+          "variant": "D",
+          "direction": "半埋式血阵石台，左右天然巨树承担链条锚点",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S25_密林深处血阵_营救祭坛/S25_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2865523,
+          "sha256": "5be27dbd3e09cbb953d912775fb929492acff43235efdbe94546b355767ef2db"
+        }
+      ]
+    },
+    {
+      "id": "S26",
+      "name": "密林撤离小道",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S26_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S26_密林撤离小道/S26_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3059219,
+          "sha256": "1b194261ab351896542930f88b7ea6dc1bf1743c9cfa2bbe0da17094dbcbce80"
+        },
+        {
+          "key": "S26_B",
+          "variant": "B",
+          "direction": "苔藓古林风：圆润青苔石块、宽大蕨叶、扭曲古橡树根绕小路",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S26_密林撤离小道/S26_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3524099,
+          "sha256": "4d24df35b390c80b3a140874441a0aa8193d2e732b53002e979308c8643ad2af"
+        },
+        {
+          "key": "S26_C",
+          "variant": "C",
+          "direction": "冷杉幽林风：密集笔直高冷杉、银灰树皮、棕色松针小路、通透薄雾",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S26_密林撤离小道/S26_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3383378,
+          "sha256": "5b2424c20ee29a059b1ac46c5be9c0a97719fecfc0a2b5aad8357cb84e255f91"
+        },
+        {
+          "key": "S26_D",
+          "variant": "D",
+          "direction": "潮湿峡林风：板根巨树与藤蔓、黑色湿岩阶、深绿阔叶林通道",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S26_密林撤离小道/S26_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3362663,
+          "sha256": "24625b6f21a3e0eb2661ea4d0a1718e9ed40db5c449559b103d499936e68e9aa"
+        }
+      ]
+    },
+    {
+      "id": "S35",
+      "name": "极渊祭坛外／守卫屏障",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S35_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S35_极渊祭坛外_守卫屏障/S35_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2453547,
+          "sha256": "0281daf3331a5a1b480f0b7dfbb9d4b42eb0582b11ef14f45c1b4dc2d9ade9b2"
+        },
+        {
+          "key": "S35_B",
+          "variant": "B",
+          "direction": "两侧低封印门槛石夹住宽阔仪式通道",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S35_极渊祭坛外_守卫屏障/S35_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2832319,
+          "sha256": "32c3abf4b640ca4169f8da4dab14e23b8df31f3713a8c2d40ba2b15cfcb8233c"
+        },
+        {
+          "key": "S35_C",
+          "variant": "C",
+          "direction": "阶梯峡谷入口，两侧斜面封印石和远处屏障",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S35_极渊祭坛外_守卫屏障/S35_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3102148,
+          "sha256": "602679e4fe33dfba9b6277dd2097c3e531973cd14548484a8a6e3a16610ff922"
+        },
+        {
+          "key": "S35_D",
+          "variant": "D",
+          "direction": "两座粗厚封印界石围合横向通道，保留环形纹样",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S35_极渊祭坛外_守卫屏障/S35_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2931387,
+          "sha256": "c15c77280f906128e66bdaf6f1d7e6a14a477ebcd64644ff23a34059024b4aab"
+        }
+      ]
+    },
+    {
+      "id": "S36",
+      "name": "极渊祭坛核心（达米安战）",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E06",
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S36_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S36_极渊祭坛核心_达米安战/S36_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2413636,
+          "sha256": "b2c671c5cc8cc7673ca8bbab8af4b2a1cbaad356a2308b245f558c6dd337b505"
+        },
+        {
+          "key": "S36_B",
+          "variant": "B",
+          "direction": "地下宽阔祭台与后方大型封印石壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S36_极渊祭坛核心_达米安战/S36_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2973113,
+          "sha256": "4a028bc1724a0ec2774f2b3ecc029e35e0fb70720c67887c644b0accd40aaa03"
+        },
+        {
+          "key": "S36_C",
+          "variant": "C",
+          "direction": "环形祭台绕中央裂隙，侧面留连续战斗步道",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S36_极渊祭坛核心_达米安战/S36_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2948212,
+          "sha256": "1f97f83c11e5324a47a9326e0de2d792aaeccc2aad4b2939881d6dee6c55953e"
+        },
+        {
+          "key": "S36_D",
+          "variant": "D",
+          "direction": "阶梯洞厅尽头的单体封印石台，地面狭裂红光",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S36_极渊祭坛核心_达米安战/S36_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2699395,
+          "sha256": "6daf968b76b59efc7fea5eeec9df9c6b1467a8fc31b8fe15658404dab15a575d"
+        }
+      ]
+    },
+    {
+      "id": "S41",
+      "name": "庄园外围驻守营地边缘",
+      "kind": "场景",
+      "group_name": "联军／远征临时驻地",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S41_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/E_联军_远征临时驻地/S41_庄园外围驻守营地边缘/S41_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2726467,
+          "sha256": "9bd930a6b117b75a0f1d344d3ecaf5a549f1f08adb5b8f4572125ac8b7b4596d"
+        },
+        {
+          "key": "S41_B",
+          "variant": "B",
+          "direction": "家族仪仗营：米白圆形长杆帐亭、酒红檐边、银色布扣、精致但可拆卸",
+          "relative": "场景/E_联军_远征临时驻地/S41_庄园外围驻守营地边缘/S41_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3184406,
+          "sha256": "83eb97a93f6b79b70a0b99eed7e1e115a09fd38f42e5cebff12f917970c17548"
+        },
+        {
+          "key": "S41_C",
+          "variant": "C",
+          "direction": "家族辎重营：深色皮革棚车与胡桃木框架雨棚、圆木轮、密集货架",
+          "relative": "场景/E_联军_远征临时驻地/S41_庄园外围驻守营地边缘/S41_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3133966,
+          "sha256": "f5a5084788549ae77974b201151bf59243988aa8c8742613ff482e07dc41d82f"
+        },
+        {
+          "key": "S41_D",
+          "variant": "D",
+          "direction": "家族守备营：低矮粗木横梁栅屋、橄榄灰帐布顶、酒红窄旗、挡土沙袋",
+          "relative": "场景/E_联军_远征临时驻地/S41_庄园外围驻守营地边缘/S41_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3453976,
+          "sha256": "7d68cb9b8a559202acc785927f65524098b3af18eb20c6eb68677110a7ddc1ff"
+        }
+      ]
+    },
+    {
+      "id": "S43",
+      "name": "远征密林深处／死亡之林",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S43_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S43_远征密林深处_死亡之林/S43_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3134623,
+          "sha256": "685233cd336d7b8d8f041b00a9581ffc01de09f3166c015a4bb39fd6287f5632"
+        },
+        {
+          "key": "S43_B",
+          "variant": "B",
+          "direction": "枯木荒林风：灰白扭曲枯树、煤黑枯叶、开阔荒芜地面",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S43_远征密林深处_死亡之林/S43_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3284607,
+          "sha256": "640ab757f67d2a3cacb3bac303e020b36056329a304a4164824c91d725872e6d"
+        },
+        {
+          "key": "S43_C",
+          "variant": "C",
+          "direction": "湿冷苔林风：巨大老橡树、垂挂长苔、黑绿密叶、深陷根系小路",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S43_远征密林深处_死亡之林/S43_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3303684,
+          "sha256": "aece5e66c0be110a70eb495f45291c23df1c0f3a45000b6b7ec95a590cb32e1f"
+        },
+        {
+          "key": "S43_D",
+          "variant": "D",
+          "direction": "尖锐针林风：极高细瘦冷杉、密集竖向树干、破碎页岩和稀薄地雾",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S43_远征密林深处_死亡之林/S43_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3302817,
+          "sha256": "3d20e2a779bc2e7088257bcf2aca428a561791123b7dc283aca46ec95f1074df"
+        }
+      ]
+    },
+    {
+      "id": "S44",
+      "name": "干涸溪谷营地",
+      "kind": "场景",
+      "group_name": "联军／远征临时驻地",
+      "emblem_ids": [
+        "E01",
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S44_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/E_联军_远征临时驻地/S44_干涸溪谷营地/S44_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2097542,
+          "sha256": "b3245fba5ade970f08459a5b39097573c5c19659609b64c2614854f69e86a18f"
+        },
+        {
+          "key": "S44_B",
+          "variant": "B",
+          "direction": "旷野仪仗帐营：米白圆帐与高杆双峰指挥帐，干溪两侧留中央营火空地",
+          "relative": "场景/E_联军_远征临时驻地/S44_干涸溪谷营地/S44_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2829697,
+          "sha256": "307a98a14f2619bf3a258e139e8caf9529a976d802a81b04c3e432f7ba39f8d3"
+        },
+        {
+          "key": "S44_C",
+          "variant": "C",
+          "direction": "流动商队式军营：棕皮棚车与赭色斜拉大布篷，轮车围半圈挡风",
+          "relative": "场景/E_联军_远征临时驻地/S44_干涸溪谷营地/S44_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2812165,
+          "sha256": "57322bb2d4ebe2a32575340d3de45b3e373f2ef1be00f133863a3d84096fecb4"
+        },
+        {
+          "key": "S44_D",
+          "variant": "D",
+          "direction": "边防营垒式野营：低矮木桩防墙、横梁矩形军棚、灰绿蜡布顶，溪床留出宽道",
+          "relative": "场景/E_联军_远征临时驻地/S44_干涸溪谷营地/S44_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2944402,
+          "sha256": "7c593388da5f56b412e89f444d2cf7663dda016842cae61907b94d03bb28b899"
+        }
+      ]
+    },
+    {
+      "id": "S45",
+      "name": "绝地谷口／俯瞰谷底",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S45_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S45_绝地谷口_俯瞰谷底/S45_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2983743,
+          "sha256": "fda012f8bfa85999dc474bb11a3132356673b649ce5e6200394e12ab049b67f3"
+        },
+        {
+          "key": "S45_B",
+          "variant": "B",
+          "direction": "玄武岩绝谷：整齐六角黑岩柱壁、宽阔阶状顶台、谷底黑潭",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S45_绝地谷口_俯瞰谷底/S45_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 3091404,
+          "sha256": "5717ef9071ca30140a1b8223523f80e76930ac2ac97343e4c008d1556de7ea4d"
+        },
+        {
+          "key": "S45_C",
+          "variant": "C",
+          "direction": "灰白峡谷：苍白层状石灰岩绝壁、横向岩檐、谷底黑潭",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S45_绝地谷口_俯瞰谷底/S45_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3460324,
+          "sha256": "903760b08d8387e1bba6fbdb61256d574ed99ecf1ad366785347737b6356811b"
+        },
+        {
+          "key": "S45_D",
+          "variant": "D",
+          "direction": "森林裂谷：巨树根缠绕的苔岩口、深绿峡谷、谷底黑潭",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S45_绝地谷口_俯瞰谷底/S45_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3321813,
+          "sha256": "6d6d3a5e6829f21d9cecc411537a9b112d142b8f77473235380071b90bccdc79"
+        }
+      ]
+    },
+    {
+      "id": "S46",
+      "name": "绝地谷黑水潭／狼晶浅滩",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S46_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S46_绝地谷黑水潭_狼晶浅滩/S46_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2712900,
+          "sha256": "7858100bcb84c07f130c75acc68fd9bbd47a9a90512122071b89e3b274e120c4"
+        },
+        {
+          "key": "S46_B",
+          "variant": "B",
+          "direction": "玄武黑潭：黑色六角石台围绕圆潭、银灰砾石浅滩",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S46_绝地谷黑水潭_狼晶浅滩/S46_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2990512,
+          "sha256": "bcbc1697269dd27eaae34c6c92855a8fd7baae6e08dcd8ebcc234bcb83228e6b"
+        },
+        {
+          "key": "S46_C",
+          "variant": "C",
+          "direction": "石灰岩黑潭：骨白圆润侵蚀岩壁、奶灰碎石坡与墨黑水面",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S46_绝地谷黑水潭_狼晶浅滩/S46_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 3105271,
+          "sha256": "f555bc86148b81b5f5bebc46c4cba44da66abe9d66806d31b77bdb6793af198a"
+        },
+        {
+          "key": "S46_D",
+          "variant": "D",
+          "direction": "苔林黑潭：巨树根与深绿苔岩包围潭面、棕色薄砾浅滩",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S46_绝地谷黑水潭_狼晶浅滩/S46_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3223432,
+          "sha256": "1ff902b9f7ded27af98c2d897ec034bb2bf841c17b138a14c77a15167781b75a"
+        }
+      ]
+    },
+    {
+      "id": "S47",
+      "name": "取晶返程密林原路",
+      "kind": "场景",
+      "group_name": "公共自然环境／归属未明古迹",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S47_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S47_取晶返程密林原路/S47_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3027469,
+          "sha256": "beb9a1d9fd622712a99a33d4ba3e4f3a741cd2002a3bcb098f25d289e7d9cd02"
+        },
+        {
+          "key": "S47_B",
+          "variant": "B",
+          "direction": "苔藓古林返程：同取晶来路的青苔圆石、扭曲橡树根和宽蕨叶",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S47_取晶返程密林原路/S47_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3357230,
+          "sha256": "171abc9e3ec5d8d959740bb89413b18bb1a6f74181eea9e34cd161b2ee486214"
+        },
+        {
+          "key": "S47_C",
+          "variant": "C",
+          "direction": "冷杉幽林返程：同取晶来路的笔直冷杉、银灰树皮与松针土路",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S47_取晶返程密林原路/S47_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3438931,
+          "sha256": "d9fb5e20d9c24e66bd98779cf78ab821953ba411c8ce1b30fba259170838ee45"
+        },
+        {
+          "key": "S47_D",
+          "variant": "D",
+          "direction": "潮湿峡林返程：同取晶来路的板根巨树、藤蔓和黑色湿岩阶",
+          "relative": "场景/F_公共自然环境_归属未明古迹/S47_取晶返程密林原路/S47_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3610186,
+          "sha256": "a4b3cbf500f232a860873eee09526a8a6006fe015dfb68e45068adf6262c71f9"
+        }
+      ]
+    },
+    {
+      "id": "S49",
+      "name": "罗德里戈隐秘洞穴",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S49_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S49_罗德里戈隐秘洞穴/S49_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2353648,
+          "sha256": "cbdddce1b38fee1a6a1b38bffd9fc68e4705e9e0b727bf492ecccef431455dac"
+        },
+        {
+          "key": "S49_B",
+          "variant": "B",
+          "direction": "低矮天然洞室、宽石桌与后侧独立仪式石",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S49_罗德里戈隐秘洞穴/S49_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2584262,
+          "sha256": "af6f1065a6f11bf2535050116a1241261560d2859bd8cdf085a4e214afead820"
+        },
+        {
+          "key": "S49_C",
+          "variant": "C",
+          "direction": "树根覆盖的宽洞厅，石桌靠深处侧壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S49_罗德里戈隐秘洞穴/S49_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2593828,
+          "sha256": "808c4ad1f7d30f07a54a2aca247d1b2d083f6a78a5dbccb4005220482c9c9e57"
+        },
+        {
+          "key": "S49_D",
+          "variant": "D",
+          "direction": "狭口宽腹洞穴，后方低石台与黑暗印记石面",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S49_罗德里戈隐秘洞穴/S49_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2265789,
+          "sha256": "3441f61fca32baa8edb494c1c54c169720df4d7eac30dd069476d51c896bfeb4"
+        }
+      ]
+    },
+    {
+      "id": "S50",
+      "name": "岩壁裂缝入口／溶洞出口",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S50_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S50_岩壁裂缝入口_溶洞出口/S50_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2767350,
+          "sha256": "68bf1cf9b37b4209dd3f2b6f08d74de91ca78d7c6e22ea907e222470e6bc3df6"
+        },
+        {
+          "key": "S50_B",
+          "variant": "B",
+          "direction": "狭长竖裂入口，内部逐渐扩展为宽洞道",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S50_岩壁裂缝入口_溶洞出口/S50_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2979646,
+          "sha256": "584e7b46742c1154d4d6dbec795457ac25b9f68693100fbc69b0afbcf1a60ea3"
+        },
+        {
+          "key": "S50_C",
+          "variant": "C",
+          "direction": "倾斜岩缝口与两级天然石阶",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S50_岩壁裂缝入口_溶洞出口/S50_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3186520,
+          "sha256": "8cb2cc1c83fd5d5cec5fb1f741fbea78a3066f7635746249c82bebfa4816cd8e"
+        },
+        {
+          "key": "S50_D",
+          "variant": "D",
+          "direction": "低宽岩壁裂口、粗砺洞顶与明显出入口过渡",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S50_岩壁裂缝入口_溶洞出口/S50_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3188375,
+          "sha256": "fb4bd5f5b1371dbb99c62e71bc8ee7b7beeea91e14e1ba9d68577d60a3da7d95"
+        }
+      ]
+    },
+    {
+      "id": "S51",
+      "name": "地下曲折洞道",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S51_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S51_地下曲折洞道/S51_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2940048,
+          "sha256": "aeb0e0ff8caa7b7fa256d7dcee579550f6b1e3d8cdeac57eafe3a23110d3c08f"
+        },
+        {
+          "key": "S51_B",
+          "variant": "B",
+          "direction": "弯曲桶状天然洞道，层状岩壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S51_地下曲折洞道/S51_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3047452,
+          "sha256": "7b01cdc727773e657f52bad08f7391e6faeda720c8b1a7b45cdc8e1d7d8d7761"
+        },
+        {
+          "key": "S51_C",
+          "variant": "C",
+          "direction": "矿脉洞道：蓝灰石英大块晶面、竖向高窄裂隙、湿银色岩面",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S51_地下曲折洞道/S51_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3405157,
+          "sha256": "cf1b2285aaa5bcbc4e34c16f9696ef1293f5011321c9e30792475b0289fcd5bb"
+        },
+        {
+          "key": "S51_D",
+          "variant": "D",
+          "direction": "喀斯特洞道：骨灰石灰岩、波浪侵蚀壁龛、宽圆曲廊",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S51_地下曲折洞道/S51_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3169919,
+          "sha256": "64632fbd2c64dfca08b2feecaab455be55d299b51316d836490410dd29aea57c"
+        }
+      ]
+    },
+    {
+      "id": "S52",
+      "name": "地下溶洞主战场",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S52_A",
+          "variant": "A",
+          "direction": "基础空间方案",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S52_地下溶洞主战场/S52_A.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2933139,
+          "sha256": "855a87156cf86b7d86f5d4448ddc3b09ee50ddca60f68f9db58d06401573db23"
+        },
+        {
+          "key": "S52_B",
+          "variant": "B",
+          "direction": "火山巨厅：黑色六角石柱、阶梯式柱节台地、平直硬边",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S52_地下溶洞主战场/S52_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2690851,
+          "sha256": "6e637836f2de895c40f2d50be966ee7548ed335577ef82a4ef0abca536abd38c"
+        },
+        {
+          "key": "S52_C",
+          "variant": "C",
+          "direction": "矿脉穹厅：烟灰石英扇状矿层、宽阔下沉战斗盆地、冷银矿脉",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S52_地下溶洞主战场/S52_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3310991,
+          "sha256": "46a8b10ff87c926260e457b7249524d5134d5ad867af88c0a459c3227f0411a2"
+        },
+        {
+          "key": "S52_D",
+          "variant": "D",
+          "direction": "蚀岩巨厅：骨灰石灰岩天然肋拱、巨型蜂窝壁龛、环形干燥岩坪",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S52_地下溶洞主战场/S52_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3303242,
+          "sha256": "9ae1beed049046a00f690630782424f399105496032291a312a73c49b53f2404"
+        }
+      ]
+    },
+    {
+      "id": "S55",
+      "name": "极渊外围封印石与黑柱远景",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S55_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S55_极渊外围封印石与黑柱远景/S55_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2209728,
+          "sha256": "070dee11824d42881927109a3e0a1cdb81299cfa9c32b21ebe9300228184d2d0"
+        },
+        {
+          "key": "S55_B",
+          "variant": "B",
+          "direction": "黑曜封印遗迹：几何阶梯式黑石台地、方正巨型封印碑、冷灰火山谷",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S55_极渊外围封印石与黑柱远景/S55_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2819652,
+          "sha256": "8e6693fea2ddecb988f513e6c33656d59c76cb3e79a1cb13a203e24968264ed9"
+        },
+        {
+          "key": "S55_C",
+          "variant": "C",
+          "direction": "矿脉封印遗迹：斜立扇形石英岩碑、银色矿脉断崖、淡雾裂谷",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S55_极渊外围封印石与黑柱远景/S55_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2861084,
+          "sha256": "f9819ae5b6fce4cfe2e372289d5749781bdc20b16c325332e24bc2aaff00d739"
+        },
+        {
+          "key": "S55_D",
+          "variant": "D",
+          "direction": "风蚀封印遗迹：圆润灰白巨岩碑、波浪侵蚀台地、荒原尽头孤立黑柱",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S55_极渊外围封印石与黑柱远景/S55_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2893051,
+          "sha256": "e4cd823a7563a922ef14076a8f9564877d5a6de9a8f05a6616365359ad75ef95"
+        }
+      ]
+    },
+    {
+      "id": "S57",
+      "name": "极渊观测高地",
+      "kind": "场景",
+      "group_name": "联军／远征临时驻地",
+      "emblem_ids": [
+        "E01",
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S57_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/E_联军_远征临时驻地/S57_极渊观测高地/S57_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2957038,
+          "sha256": "a38f7073c296a4b4375563b8840f8e7499ab6e8e3ee8f09adb17c9c3fcdc953f"
+        },
+        {
+          "key": "S57_B",
+          "variant": "B",
+          "direction": "仪仗式观测哨：米白高帆棚与酒红檐边、银饰木架望远镜、宽石台",
+          "relative": "场景/E_联军_远征临时驻地/S57_极渊观测高地/S57_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2831949,
+          "sha256": "2c4b40976546cd1b0840f2cf0b7620051b56866df2901ebf37704e8124ab397f"
+        },
+        {
+          "key": "S57_C",
+          "variant": "C",
+          "direction": "机动辎重观测哨：棕色皮革折叠风挡、轻型木轮器材车、器材箱和望远镜",
+          "relative": "场景/E_联军_远征临时驻地/S57_极渊观测高地/S57_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2810797,
+          "sha256": "91190ed5a5d69aa4d8956031e5bdff6f50f3cbce6438f628fdf41cfc0c601305"
+        },
+        {
+          "key": "S57_D",
+          "variant": "D",
+          "direction": "边防堡式观测哨：粗木胸墙与石砌低掩体、灰绿帆布低棚、木架望远镜",
+          "relative": "场景/E_联军_远征临时驻地/S57_极渊观测高地/S57_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2922439,
+          "sha256": "30064ea9f0985a2c03d836d8c7529eb3859132abd906239fc048073911343c11"
+        }
+      ]
+    },
+    {
+      "id": "S58",
+      "name": "联军山脚营地与补给区",
+      "kind": "场景",
+      "group_name": "联军／远征临时驻地",
+      "emblem_ids": [
+        "E01",
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S58_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/E_联军_远征临时驻地/S58_联军山脚营地与补给区/S58_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2407537,
+          "sha256": "31626dcbf4e0f1baefd83df26f8577d85b8b1c66c5a724b6b8f28014e1a48488"
+        },
+        {
+          "key": "S58_B",
+          "variant": "B",
+          "direction": "整齐仪仗军营：米白圆形尖顶帐亭与宏大双峰中军帐、放射状木板通路",
+          "relative": "场景/E_联军_远征临时驻地/S58_联军山脚营地与补给区/S58_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            940
+          ],
+          "bytes": 2877879,
+          "sha256": "fcffca6793de7ff6f67f5210b9854168ad617f3560179b346da311888b309fbd"
+        },
+        {
+          "key": "S58_C",
+          "variant": "C",
+          "direction": "机动辎重军营：深棕皮革大棚车与赭色宽雨篷、车轮栅障、开放货场",
+          "relative": "场景/E_联军_远征临时驻地/S58_联军山脚营地与补给区/S58_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3033830,
+          "sha256": "4f6d3f26489253679043a8eee36205265660cce5200aecda33f7b7e3d5493db8"
+        },
+        {
+          "key": "S58_D",
+          "variant": "D",
+          "direction": "边防军寨：粗木矮塔、栅墙、灰绿色矩形营棚、垒木补给仓，明确宽车道",
+          "relative": "场景/E_联军_远征临时驻地/S58_联军山脚营地与补给区/S58_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3162839,
+          "sha256": "3e4d226dae206c8c40d6cede10d2fcab8e0f5efa3765569de945ef4874440ae1"
+        }
+      ]
+    },
+    {
+      "id": "S59",
+      "name": "极渊裂隙入口与通道",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S59_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S59_极渊裂隙入口与通道/S59_A.png",
+          "exists": true,
+          "dimensions": [
+            1675,
+            939
+          ],
+          "bytes": 2129539,
+          "sha256": "f7c84783acc5fa4969911e79070fff4cfd150cede5b050b502566c9ea7a51909"
+        },
+        {
+          "key": "S59_B",
+          "variant": "B",
+          "direction": "熔岩管廊：低矮弧形黑曜岩壳、粗厚固结流纹、侧壁封印嵌面",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S59_极渊裂隙入口与通道/S59_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3176362,
+          "sha256": "2c05d0e462eb00e2028423290f5434f6dc213eac53980b97f80d20e2494fc5c4"
+        },
+        {
+          "key": "S59_C",
+          "variant": "C",
+          "direction": "矿脉裂廊：高直烟灰石英断面、窄天缝、斜插宽封印石板",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S59_极渊裂隙入口与通道/S59_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3156325,
+          "sha256": "5a7f6490c38e6ce018f0b00ee51113a44d1f217e1ef5bbcddbe5fb7d5c31ce7b"
+        },
+        {
+          "key": "S59_D",
+          "variant": "D",
+          "direction": "风蚀岩廊：骨灰蜂窝孔洞、层层圆拱天然凹槽、侧壁宽封印石面",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S59_极渊裂隙入口与通道/S59_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3292487,
+          "sha256": "6fe7bfdc6fd7798a1cd8295ef95a79ea91290160b46512bcd72f6f7027d33ab7"
+        }
+      ]
+    },
+    {
+      "id": "S60",
+      "name": "极渊封印祭坛（终战）",
+      "kind": "场景",
+      "group_name": "黑暗赤狼势力／极渊遗址",
+      "emblem_ids": [
+        "E07",
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "S60_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S60_极渊封印祭坛_终战/S60_A.png",
+          "exists": true,
+          "dimensions": [
+            1676,
+            939
+          ],
+          "bytes": 2538140,
+          "sha256": "de2b03ff73def41e81f15a2da570b170e9e5487796641de0c020dd79d3002dec"
+        },
+        {
+          "key": "S60_B",
+          "variant": "B",
+          "direction": "玄武岩巨石仪式风：低宽黑色阶梯圆台，四侧六角石阶梯，外圈硬朗柱状岩壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S60_极渊封印祭坛_终战/S60_B.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2867440,
+          "sha256": "355fc47b49ca0543d746ab4746ab8c0c95b8f25acc05208998614982e452deff"
+        },
+        {
+          "key": "S60_C",
+          "variant": "C",
+          "direction": "黑曜祭器风：光滑宽阔整块黑曜圆盘，厚圆润台缘，银色环纹，周围烟灰石英扇状岩壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S60_极渊封印祭坛_终战/S60_C.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2757854,
+          "sha256": "c47e8f4ab5636f5de1be381f8286effff33b975729873dec107fc629f6a1cfcc"
+        },
+        {
+          "key": "S60_D",
+          "variant": "D",
+          "direction": "远古风蚀巨石风：粗糙黑灰整石低坛，夸张厚实圆鼓台体，周围灰白波浪侵蚀岩壁",
+          "relative": "场景/D_黑暗赤狼势力_极渊遗址/S60_极渊封印祭坛_终战/S60_D.png",
+          "exists": true,
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 3178777,
+          "sha256": "8b2ab0abab4a5b53d1fb9e169125f6ee6536dab73189e137fbd3e4f6c33f0e38"
+        }
+      ]
+    },
+    {
+      "id": "K01",
+      "name": "男主金色月环／月轮",
+      "kind": "道具",
+      "group_name": "男主／伴侣与随身器物",
+      "emblem_ids": [
+        "E05"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K01_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/男主_伴侣与随身器物/K01_男主金色月环_月轮/K01_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2347133,
+          "sha256": "d2712462ebc60980b1ceb0a1f463f2a13a548b8d2f2e14dd9dc8745157eab57d"
+        },
+        {
+          "key": "K01_B",
+          "variant": "B",
+          "direction": "王权珠宝工艺：宽厚黄金环，饱满圆截面，密集浅浮雕月纹和细嵌金线",
+          "relative": "道具/男主_伴侣与随身器物/K01_男主金色月环_月轮/K01_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2288041,
+          "sha256": "68826ffc7fba039a790a35f7b9fac69ffdbac552e50df3d602767ca2d2e6a295"
+        },
+        {
+          "key": "K01_C",
+          "variant": "C",
+          "direction": "军用机关工艺：扁宽锻金环，分段台阶棱面，隐蔽机关接缝与极简刻度槽",
+          "relative": "道具/男主_伴侣与随身器物/K01_男主金色月环_月轮/K01_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2008729,
+          "sha256": "610d0270fd75a7e939b9f20ff4687ae241c1a5ad300b7195b8cd8cf9b914d2dd"
+        },
+        {
+          "key": "K01_D",
+          "variant": "D",
+          "direction": "远古铸金工艺：粗厚手锻圆环，锤击肌理、流动旋纹与深沉旧金包浆",
+          "relative": "道具/男主_伴侣与随身器物/K01_男主金色月环_月轮/K01_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2247865,
+          "sha256": "4ec0bb64398c37d9f10a3dd0c26cf2256e3bb262deecc13f95361c361b19802c"
+        }
+      ]
+    },
+    {
+      "id": "K02",
+      "name": "血影匕首",
+      "kind": "道具",
+      "group_name": "血影／克鲁斯",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K02_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/血影_克鲁斯/K02_血影匕首/K02_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1991148,
+          "sha256": "720cacd92d8789ba469cd109d04658528d63f34436fae70f6c62c6aa64465dac"
+        },
+        {
+          "key": "K02_B",
+          "variant": "B",
+          "direction": "贵族刺杀风：细长火焰曲刃、暗铜雕花护手、乌木握柄、细小赤红镶线",
+          "relative": "道具/血影_克鲁斯/K02_血影匕首/K02_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2408995,
+          "sha256": "f346fe6d89a291fb2657f23fa19d68b0e744cf2e2e6fbe0560b206fd21ca8dfa"
+        },
+        {
+          "key": "K02_C",
+          "variant": "C",
+          "direction": "军械杀器风：宽阔直三角刃、几何短护手、黑皮方柄、粗铆钉",
+          "relative": "道具/血影_克鲁斯/K02_血影匕首/K02_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2417487,
+          "sha256": "ae9d8471239569736c3d5f021d12e229a05f4812772e718d7ceeb0488794cd8d"
+        },
+        {
+          "key": "K02_D",
+          "variant": "D",
+          "direction": "古老猎刃风：厚实内弯钩形短刃、粗皮缠柄、黑铜有机弧面尾帽",
+          "relative": "道具/血影_克鲁斯/K02_血影匕首/K02_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2309241,
+          "sha256": "c4f9df8227aa999251d600c341ceda67c638e6320574f246eb22136b69e6e7ee"
+        }
+      ]
+    },
+    {
+      "id": "K03",
+      "name": "阿德里安白银长枪",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K03_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K03_阿德里安白银长枪/K03_A.png",
+          "exists": true,
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 1665451,
+          "sha256": "ea70c365e4504e0e499f1fa6076a36bcfe756ce61d7ac3bca2eceef274493c92"
+        },
+        {
+          "key": "K03_B",
+          "variant": "B",
+          "direction": "宫廷仪仗风：宽银叶枪尖、细密浮雕套筒、深蓝银嵌杆、五分仪式感",
+          "relative": "道具/王庭_银月体系/K03_阿德里安白银长枪/K03_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1781690,
+          "sha256": "67cefc73838283408564d608b889b78a7da1360c0400e91ed715658077fa5ace"
+        },
+        {
+          "key": "K03_C",
+          "variant": "C",
+          "direction": "军用仪仗道具风：短钝四棱银色树脂头、方正护翼、厚直杆、分区黑皮手柄",
+          "relative": "道具/王庭_银月体系/K03_阿德里安白银长枪/K03_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 1780239,
+          "sha256": "25cb7e3b90c38547605bb70a414e194324ca078f1b8b7136e002f80f20e886de"
+        },
+        {
+          "key": "K03_D",
+          "variant": "D",
+          "direction": "古代传承道具风：宽圆柳叶镀银木雕头、锤纹银套、老白木长杆、细银绳",
+          "relative": "道具/王庭_银月体系/K03_阿德里安白银长枪/K03_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 1803330,
+          "sha256": "9cac4a60f16a4e927b6a5e9540ace2050dcb67ee3abf0ff31cdbcccfe4fc6b93"
+        }
+      ]
+    },
+    {
+      "id": "K04",
+      "name": "尼科倒刺狼皮鞭",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K04_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K04_尼科倒刺狼皮鞭/K04_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2453932,
+          "sha256": "6e73189056efdf8e409995a4780102a0a3e73e92c261de9e5972f94c22b4e706"
+        },
+        {
+          "key": "K04_B",
+          "variant": "B",
+          "direction": "贵族刑具风：长银雕花握柄、黑狼皮八股编鞭、精密银倒刺环",
+          "relative": "道具/赤月_蒙特斯/K04_尼科倒刺狼皮鞭/K04_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2083523,
+          "sha256": "cd9d1cc4ce84444a39cdc7a95f39e9c15998384667f93d433c05d930a0df24c0"
+        },
+        {
+          "key": "K04_C",
+          "variant": "C",
+          "direction": "军用惩戒风：宽扁黑狼皮带状鞭身、方钢钝倒刺、粗糙包皮短柄",
+          "relative": "道具/赤月_蒙特斯/K04_尼科倒刺狼皮鞭/K04_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2083567,
+          "sha256": "60e26b434d7c2cc496ac321c043a3cf2f54bf7e2f3546c1568e087e380c08cd7"
+        },
+        {
+          "key": "K04_D",
+          "variant": "D",
+          "direction": "古老猎族风：粗结狼皮辫、结节式黑铁钝钩、曲线老木握柄",
+          "relative": "道具/赤月_蒙特斯/K04_尼科倒刺狼皮鞭/K04_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2199085,
+          "sha256": "8faba4cddd252adfa1faf306542f84464e8046bb6bcc03beb40a134529416411"
+        }
+      ]
+    },
+    {
+      "id": "K05",
+      "name": "赫克托重型战戟",
+      "kind": "道具",
+      "group_name": "血影／克鲁斯",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K05_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/血影_克鲁斯/K05_赫克托重型战戟/K05_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1872408,
+          "sha256": "85eb8e7898d51e1267457ba54cfdfe88f404ce9671f59aa437f1ba52e2841733"
+        },
+        {
+          "key": "K05_B",
+          "variant": "B",
+          "direction": "黑铜贵胄重戟：巨大月牙斧刃、黑钢浮雕脊、暗铜侧翼、粗长黑木杆",
+          "relative": "道具/血影_克鲁斯/K05_赫克托重型战戟/K05_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1901936,
+          "sha256": "714042feaec1b0dce6abb96c4fd35ffb7e8086b1f24c4f27c690ee0faa5df6fe"
+        },
+        {
+          "key": "K05_C",
+          "variant": "C",
+          "direction": "堡垒重装战戟：巨大宽方肩劈刃、直厚背、方铆套筒、包铁粗杆",
+          "relative": "道具/血影_克鲁斯/K05_赫克托重型战戟/K05_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1953234,
+          "sha256": "25b872a37614f213b6af2b97a8c2ee5a2547b4ebf2f6793813f6e8f819172a60"
+        },
+        {
+          "key": "K05_D",
+          "variant": "D",
+          "direction": "远古猎王重戟：宽厚内弧野性刀斧头、不对称厚钩、粗皮缠黑木杆",
+          "relative": "道具/血影_克鲁斯/K05_赫克托重型战戟/K05_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1935730,
+          "sha256": "1b0f19b26b38cd9e01de03bd5cf836a38865b1951813493c3076792d33316210"
+        }
+      ]
+    },
+    {
+      "id": "K06",
+      "name": "尼科重型战戟",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K06_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K06_尼科重型战戟/K06_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1790876,
+          "sha256": "3e6b37fde5e323cbd1d86d9aec969a6a47865abaa06944d55a8cd74e497b1e8d"
+        },
+        {
+          "key": "K06_B",
+          "variant": "B",
+          "direction": "赤月贵族重戟：50厘米大扇弧刃、旧银卷草刀根、酒红缠带粗柄",
+          "relative": "道具/赤月_蒙特斯/K06_尼科重型战戟/K06_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1788006,
+          "sha256": "9ec0ea7a7b952f2e6cc9b0acba241594115d4daa6ac696f9f5eabfe504bc6b33"
+        },
+        {
+          "key": "K06_C",
+          "variant": "C",
+          "direction": "赤月卫城重戟：50厘米宽多角楔刃、极厚直脊、方银箍与2.2米粗杆",
+          "relative": "道具/赤月_蒙特斯/K06_尼科重型战戟/K06_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1803930,
+          "sha256": "d9a1be3537f0e56bfe4a3253ec04b6f97b3578f2ed622fbbabcebcdabb60fea2"
+        },
+        {
+          "key": "K06_D",
+          "variant": "D",
+          "direction": "赤月祖传重戟：50厘米宽钩月刃、手锻波纹钢、暗木皮绕2.2米重柄",
+          "relative": "道具/赤月_蒙特斯/K06_尼科重型战戟/K06_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1722640,
+          "sha256": "cfad8e71933a7b8d49031ef283acb19a1c69141ea67c6a6ff15062e5c109cbd2"
+        }
+      ]
+    },
+    {
+      "id": "K07",
+      "name": "索菲亚靴筒匕首",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K07_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K07_索菲亚靴筒匕首/K07_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2251969,
+          "sha256": "9fcad19e7126bd253dff359efffcbd6fe7bf0048f5af1132ae2ea7708f0a86a8"
+        },
+        {
+          "key": "K07_B",
+          "variant": "B",
+          "direction": "淑女暗藏风：纤细流线柳叶刀、旧银镶线短柄、酒红柔皮靴鞘",
+          "relative": "道具/赤月_蒙特斯/K07_索菲亚靴筒匕首/K07_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2130157,
+          "sha256": "21d7d48a33193acc3e9619c424fcaa7aaa8ef5763e98826a5a8ee2493b69dcd1"
+        },
+        {
+          "key": "K07_C",
+          "variant": "C",
+          "direction": "实战隐刃风：短宽直尖刀、无突起护手、扁黑皮握柄与贴腿薄鞘",
+          "relative": "道具/赤月_蒙特斯/K07_索菲亚靴筒匕首/K07_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2002324,
+          "sha256": "f35c3b762960afb83cf6db15cc962a78798878d20641a011beee4013ba3555c9"
+        },
+        {
+          "key": "K07_D",
+          "variant": "D",
+          "direction": "祖传小猎刀风：微弯刃、打磨骨白柄片、银丝包边与编皮刀鞘",
+          "relative": "道具/赤月_蒙特斯/K07_索菲亚靴筒匕首/K07_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2117162,
+          "sha256": "065fa2221cfd4ba5c500fb46d7739ed68ceff2f54f5de1c2b9a5e7cb329a8d52"
+        }
+      ]
+    },
+    {
+      "id": "K08",
+      "name": "银月卫盾牌",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K08_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K08_银月卫盾牌/K08_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2220473,
+          "sha256": "0bc678629c92d42fcff8b89499c1208f4a7da590cc0104963567b00d52c743b9"
+        },
+        {
+          "key": "K08_B",
+          "variant": "B",
+          "direction": "宫廷盾风：宽大扇贝顶长盾、浮雕银边、深蓝珐琅盾面、优雅弧线",
+          "relative": "道具/王庭_银月体系/K08_银月卫盾牌/K08_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 1976175,
+          "sha256": "5581081af82697aa5063f3e6165bfd3b571ac4e04a6f79f284c9ee3622d795c7"
+        },
+        {
+          "key": "K08_C",
+          "variant": "C",
+          "direction": "重步兵盾风：巨大圆角矩形盾、黑银铆钉板片、深蓝哑光皮面",
+          "relative": "道具/王庭_银月体系/K08_银月卫盾牌/K08_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2213141,
+          "sha256": "d638727ddd8b2d090f31454bcb9a1b40c9b0fccf9072b57d65946c1f58bc9bcf"
+        },
+        {
+          "key": "K08_D",
+          "variant": "D",
+          "direction": "古代骑士盾风：宽椭圆盾、厚银包边、放射锻打条纹与深蓝革心",
+          "relative": "道具/王庭_银月体系/K08_银月卫盾牌/K08_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2148370,
+          "sha256": "15146a33d08e663f57465be5a8a5c5e59c6019f80a64814e370a1a93a0183c6d"
+        }
+      ]
+    },
+    {
+      "id": "K09",
+      "name": "狼人王王冠",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E03"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K09_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K09_狼人王王冠/K09_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2326585,
+          "sha256": "1f49d636c6bd7fe5de95faec163b70653987903d5d3b61b8888ae02cbe847239"
+        },
+        {
+          "key": "K09_B",
+          "variant": "B",
+          "direction": "巴洛克权冠：宽冠带、精密银叶卷花、五个优雅高峰、暗金边",
+          "relative": "道具/王庭_银月体系/K09_狼人王王冠/K09_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2447488,
+          "sha256": "7fcd9657985a4fa0225b8c9350871583df53fb168d269250519c488ce85beb92"
+        },
+        {
+          "key": "K09_C",
+          "variant": "C",
+          "direction": "堡垒权冠：厚重几何银冠带、五枚宽三角峰、少装饰、权威硬线",
+          "relative": "道具/王庭_银月体系/K09_狼人王王冠/K09_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2375377,
+          "sha256": "163fa0ad3729635845b7847d25e604e07916a87dfbe03de7e2c2ed0f95392fb9"
+        },
+        {
+          "key": "K09_D",
+          "variant": "D",
+          "direction": "古代银枝冠：低矮交织枝环、五片宽圆叶峰、手锤古银，保留小比例王庭徽记",
+          "relative": "道具/王庭_银月体系/K09_狼人王王冠/K09_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2176340,
+          "sha256": "747e2a86cdd103c63e1505c25e50fb649ac21cac879891dd00046f25b4c6441b"
+        }
+      ]
+    },
+    {
+      "id": "K10",
+      "name": "赤月血纹戒",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K10_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K10_赤月血纹戒/K10_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2665349,
+          "sha256": "42d2c997cbf2cf1462456e653f67246684a3b1ecdcd5ae6806eac268ee7b3735"
+        },
+        {
+          "key": "K10_B",
+          "variant": "B",
+          "direction": "贵族珐琅戒：宽椭圆酒红珐琅戒面、银色密雕叶边、精致厚戒肩",
+          "relative": "道具/赤月_蒙特斯/K10_赤月血纹戒/K10_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2509104,
+          "sha256": "8864cfce0082ad2cb4fa7e7d940b47887d412d8946d4fc4375c898705dea166a"
+        },
+        {
+          "key": "K10_C",
+          "variant": "C",
+          "direction": "家主印玺戒：高八角平面红石底、厚方银肩、切削硬边",
+          "relative": "道具/赤月_蒙特斯/K10_赤月血纹戒/K10_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2651525,
+          "sha256": "25e266b82d833f03b8533337bd9c23b302b55c5f3e2d7620f3fa5a70747c4107"
+        },
+        {
+          "key": "K10_D",
+          "variant": "D",
+          "direction": "祖传血纹戒：圆鼓手锻银戒、深红流动凹槽、古老宽环",
+          "relative": "道具/赤月_蒙特斯/K10_赤月血纹戒/K10_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2695546,
+          "sha256": "a031d8b521efbe7f32ef1f7b17f80649a6a3a9affe8367379c8cdb864d6c31a6"
+        }
+      ]
+    },
+    {
+      "id": "K11",
+      "name": "血脉图腾石／验魂石",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01",
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K11_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K11_血脉图腾石_验魂石/K11_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2854660,
+          "sha256": "ae0d696b7d390cb1df9a32dde2398b4f3156be83b2078a98b989fd6c9eb334fe"
+        },
+        {
+          "key": "K11_B",
+          "variant": "B",
+          "direction": "仪式验魂石：平滑黑石圆球切出宽平面，细旧银托箍",
+          "relative": "道具/赤月_蒙特斯/K11_血脉图腾石_验魂石/K11_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2518923,
+          "sha256": "fd4c871a49911b831330d2cae67f4fc4cd71a3a3224df8ee6a1a8cff9d78fedb"
+        },
+        {
+          "key": "K11_C",
+          "variant": "C",
+          "direction": "军用验魂石：厚方形倒角黑石块、粗凿四边、中央磨光方区",
+          "relative": "道具/赤月_蒙特斯/K11_血脉图腾石_验魂石/K11_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2791766,
+          "sha256": "86cb5d8a968e9fc6a868d9802bd9678838c78b567ba3cb15a67fa02af64987a1"
+        },
+        {
+          "key": "K11_D",
+          "variant": "D",
+          "direction": "上古验魂石：天然黑陨石卵形、粗糙火山皮壳、中央深色镜面",
+          "relative": "道具/赤月_蒙特斯/K11_血脉图腾石_验魂石/K11_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2666861,
+          "sha256": "cf452ea106055909893ae33a89faa46b6cf7824b17bf92ab7eedbc65eda50554"
+        }
+      ]
+    },
+    {
+      "id": "K12",
+      "name": "血影水晶",
+      "kind": "道具",
+      "group_name": "血影／克鲁斯",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K12_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/血影_克鲁斯/K12_血影水晶/K12_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2123758,
+          "sha256": "e2f27ffd3f7b1192f3cef2c4c1dcb9186838ed89d60918495b4d53eeb0d0a5bb"
+        },
+        {
+          "key": "K12_B",
+          "variant": "B",
+          "direction": "贵族秘晶：长锥形酒红透明晶体、暗铜镂花底笼",
+          "relative": "道具/血影_克鲁斯/K12_血影水晶/K12_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1918690,
+          "sha256": "281af3cb18d4367d5b3036e8b2803cc76f85bca5c4969de7029a14cf3ebb633e"
+        },
+        {
+          "key": "K12_C",
+          "variant": "C",
+          "direction": "战术血晶：短粗菱柱暗红晶块、几何黑铁夹爪、厚底环",
+          "relative": "道具/血影_克鲁斯/K12_血影水晶/K12_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2226337,
+          "sha256": "7bad2d4c1066ad97a02e4d54c706318d82bd0f8926588e3b4911184d897d1fa7"
+        },
+        {
+          "key": "K12_D",
+          "variant": "D",
+          "direction": "黑暗原晶：不规则分叉红黑晶体、焦黑粗石根、局部铜线固定",
+          "relative": "道具/血影_克鲁斯/K12_血影水晶/K12_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2246216,
+          "sha256": "390ac9beed267594f37812ef8015ad77dbd6a5a8f0919cbd94d96c8b8ac73964"
+        }
+      ]
+    },
+    {
+      "id": "K13",
+      "name": "银色月牙令牌",
+      "kind": "道具",
+      "group_name": "男主／伴侣与随身器物",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K13_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/男主_伴侣与随身器物/K13_银色月牙令牌/K13_A.png",
+          "exists": true,
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 3101160,
+          "sha256": "474e2ff594707330e2ebbbb480e796594593a7810d4b522f754f65093c501e40"
+        },
+        {
+          "key": "K13_B",
+          "variant": "B",
+          "direction": "上宽下略收的实心银牌，盾形边廓、浮雕卷草边框、中央显文留白",
+          "relative": "道具/男主_伴侣与随身器物/K13_银色月牙令牌/K13_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2650757,
+          "sha256": "659d9d75533271272d50b0e8dd404527df2bc8b75aefc0d56f54f020e6031844"
+        },
+        {
+          "key": "K13_C",
+          "variant": "C",
+          "direction": "修长圆角实心银牌、细密月相刻纹边、中央大面积显文留白",
+          "relative": "道具/男主_伴侣与随身器物/K13_银色月牙令牌/K13_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2502768,
+          "sha256": "711d29f0d4a4d61c574be77dd097bec085a5e1c50cc51a9f2a3ccb8f6eb2940b"
+        },
+        {
+          "key": "K13_D",
+          "variant": "D",
+          "direction": "切角八边形实心银牌、双层台阶银边和藤叶花纹、中央显文留白",
+          "relative": "道具/男主_伴侣与随身器物/K13_银色月牙令牌/K13_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2627990,
+          "sha256": "ea3ec45d404e53bb12433618f060e13b1033e24bfab7fee2b67fbfcb365f8e4e"
+        }
+      ]
+    },
+    {
+      "id": "K14",
+      "name": "王庭最高审判信标",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E03"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K14_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K14_王庭最高审判信标/K14_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2249638,
+          "sha256": "6982a044559b587be5cc384302ad60bad5cac30b7d8699d3c092c67a8292e4c0"
+        },
+        {
+          "key": "K14_B",
+          "variant": "B",
+          "direction": "宫廷银牌：扁圆拱顶银牌、极窄浮雕银边、小王庭月冠置顶",
+          "relative": "道具/王庭_银月体系/K14_王庭最高审判信标/K14_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2365676,
+          "sha256": "53887d0cb5a742d2a81b9a18c41815219a6ad7ba6314db77d814f26657f175d8"
+        },
+        {
+          "key": "K14_C",
+          "variant": "C",
+          "direction": "军法银牌：厚方切角实心银板、单条直边框、顶角小王庭徽",
+          "relative": "道具/王庭_银月体系/K14_王庭最高审判信标/K14_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2632072,
+          "sha256": "c17fa2e5bb03402b2e1ee55378b2778cfd26b118c910ec70b346aeebdeac52b5"
+        },
+        {
+          "key": "K14_D",
+          "variant": "D",
+          "direction": "古老审判令：矮宽近圆实心银牌、宽素银软边、短吊环与显字留白",
+          "relative": "道具/王庭_银月体系/K14_王庭最高审判信标/K14_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2630985,
+          "sha256": "1eaf85b23e26cc028d246d0aab04739c1894dfa00b69eddf43c0e30c84a9f11e"
+        }
+      ]
+    },
+    {
+      "id": "K15",
+      "name": "上古狼晶",
+      "kind": "道具",
+      "group_name": "古代遗物／公共神圣体系",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K15_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/古代遗物_公共神圣体系/K15_上古狼晶/K15_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2440073,
+          "sha256": "09b26046bc3ef4ce3f43fb9cb1f3ee8299d0121334eeed33bc9993605d900c92"
+        },
+        {
+          "key": "K15_B",
+          "variant": "B",
+          "direction": "神庙封存狼晶：单颗宽大透明烟金多面晶核、整齐磨切外形",
+          "relative": "道具/古代遗物_公共神圣体系/K15_上古狼晶/K15_B.png",
+          "exists": true,
+          "dimensions": [
+            1312,
+            1199
+          ],
+          "bytes": 2175917,
+          "sha256": "51a2011de99abb6cb56b6a2a32947bc4a419166c88a2933efd89b1d391f1028a"
+        },
+        {
+          "key": "K15_C",
+          "variant": "C",
+          "direction": "原矿狼晶：一颗粗大双尖淡金晶柱、天然破裂晶面和灰色石根",
+          "relative": "道具/古代遗物_公共神圣体系/K15_上古狼晶/K15_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2227638,
+          "sha256": "61959834437fd1912f16b0c46c1fc8befe3f1e3808689a239f64eabe9876451e"
+        },
+        {
+          "key": "K15_D",
+          "variant": "D",
+          "direction": "古老凝结狼晶：一体圆润琥珀晶石，层层半透明内部纹理、少量自然晶角",
+          "relative": "道具/古代遗物_公共神圣体系/K15_上古狼晶/K15_D.png",
+          "exists": true,
+          "dimensions": [
+            1402,
+            1122
+          ],
+          "bytes": 2212443,
+          "sha256": "0dc12199bc3f5f66edffa71cd36506b0aa90319a48ef941bfd76cd9e5225da45"
+        }
+      ]
+    },
+    {
+      "id": "K16",
+      "name": "赤月圣血瓶",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01",
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K16_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K16_赤月圣血瓶/K16_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2413346,
+          "sha256": "e9563b10c1ded9161f61308d1e091aef775bdfedc6df802668a894abc60052cd"
+        },
+        {
+          "key": "K16_B",
+          "variant": "B",
+          "direction": "贵族炼金血瓶：三只细长滴泪形玻璃瓶、雕银细颈、银底托",
+          "relative": "道具/赤月_蒙特斯/K16_赤月圣血瓶/K16_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2355353,
+          "sha256": "2fa908e52c815ee48fbdde344d7450b73cbb94b5585637b5518b02ae22051202"
+        },
+        {
+          "key": "K16_C",
+          "variant": "C",
+          "direction": "军用圣血瓶：三只矮方厚壁玻璃瓶、钢银旋塞、直边保护套",
+          "relative": "道具/赤月_蒙特斯/K16_赤月圣血瓶/K16_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2496158,
+          "sha256": "d31f349c7e24d6562ddbb5ced113ba56203ec882b905a9075b6b4c4132bdee7a"
+        },
+        {
+          "key": "K16_D",
+          "variant": "D",
+          "direction": "祖传仪式血瓶：三只圆腹微不规则手吹玻璃瓶、锤纹银塞、粗银颈圈",
+          "relative": "道具/赤月_蒙特斯/K16_赤月圣血瓶/K16_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2507189,
+          "sha256": "5892ee611c02d0732a649a0dd3795c1d84de664f9a4c5955472f43a49592671b"
+        }
+      ]
+    },
+    {
+      "id": "K17",
+      "name": "战斗记录传讯石",
+      "kind": "道具",
+      "group_name": "男主／伴侣与随身器物",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K17_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/男主_伴侣与随身器物/K17_战斗记录传讯石/K17_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2069549,
+          "sha256": "30c94fcfcc8e2b6fe449cf0cebc8ec29e99f9aa9627b4d5628fec44765c49be4"
+        },
+        {
+          "key": "K17_B",
+          "variant": "B",
+          "direction": "宫廷通讯石：椭圆光滑烟灰石、银色细工框、平整可投影晶面",
+          "relative": "道具/男主_伴侣与随身器物/K17_战斗记录传讯石/K17_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2124559,
+          "sha256": "2f1bc16d2600749600f73f0bf7062b4dc7bc961b2bca491da4b698c8fdaa7226"
+        },
+        {
+          "key": "K17_C",
+          "variant": "C",
+          "direction": "战地通讯石：厚六边黑灰石片、简单金属角夹、磨砂边、平滑中心",
+          "relative": "道具/男主_伴侣与随身器物/K17_战斗记录传讯石/K17_C.png",
+          "exists": true,
+          "dimensions": [
+            1402,
+            1122
+          ],
+          "bytes": 2318519,
+          "sha256": "92bb923bfe871aa82515ff8e98a357376cd225bb579e8d56a16af6e9730e0f9d"
+        },
+        {
+          "key": "K17_D",
+          "variant": "D",
+          "direction": "古代随身通讯石：河卵石外廓、银丝嵌天然凹槽、光滑微透中央",
+          "relative": "道具/男主_伴侣与随身器物/K17_战斗记录传讯石/K17_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2213130,
+          "sha256": "af0b280237dd9660e3d320375dc81356ec1c1941889ba6fc36e4695c24151a91"
+        }
+      ]
+    },
+    {
+      "id": "K18",
+      "name": "黑暗符文投影石",
+      "kind": "道具",
+      "group_name": "黑暗势力",
+      "emblem_ids": [
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K18_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/黑暗势力/K18_黑暗符文投影石/K18_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2222977,
+          "sha256": "ec7aed59baead57e484423398ac7e41a29358993e13d724cdc990c634acf5437"
+        },
+        {
+          "key": "K18_B",
+          "variant": "B",
+          "direction": "黑暗仪式石：三颗高尖黑色矿晶，独立小黑铁底座",
+          "relative": "道具/黑暗势力/K18_黑暗符文投影石/K18_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2091857,
+          "sha256": "bcb9fc861ce8f92d2016ee6f16a965a692426cd0d7b6e7abaf6b29cba466695c"
+        },
+        {
+          "key": "K18_C",
+          "variant": "C",
+          "direction": "秘密军用石：三块扁厚六角灰石，磨切平面、无装饰",
+          "relative": "道具/黑暗势力/K18_黑暗符文投影石/K18_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2356398,
+          "sha256": "0365969015e5ff2d75d6822fb062d860e85ad8cc8c0ab89d013c2dc2297cc434"
+        },
+        {
+          "key": "K18_D",
+          "variant": "D",
+          "direction": "远古祭石：三枚粗糙陨石卵石，红色自然裂纹、无金属附件",
+          "relative": "道具/黑暗势力/K18_黑暗符文投影石/K18_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2199590,
+          "sha256": "105730071b6c718c33bbd0c9bcbc6275d8aabe67951ba11f8293e42f2efa1cfe"
+        }
+      ]
+    },
+    {
+      "id": "K19",
+      "name": "最高血印求援卷轴",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K19_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K19_最高血印求援卷轴/K19_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2383451,
+          "sha256": "91e5addd2069f089bdf1e6e768b421b59a2ab9d64a8ae5b6f3795e9a98b03784"
+        },
+        {
+          "key": "K19_B",
+          "variant": "B",
+          "direction": "宫廷请援卷：宽大象牙羊皮卷、精雕银轴头、窄卷草边栏",
+          "relative": "道具/赤月_蒙特斯/K19_最高血印求援卷轴/K19_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2434095,
+          "sha256": "18b8dd0840021896091ce0712e153eaf62859d2f3a0fe34822c85402e0bf159c"
+        },
+        {
+          "key": "K19_C",
+          "variant": "C",
+          "direction": "战地急援卷：粗棕羊皮窄长卷、粗木短轴、皮绳绕扣、直线边框",
+          "relative": "道具/赤月_蒙特斯/K19_最高血印求援卷轴/K19_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2403508,
+          "sha256": "da574aa0fb2992fa5294fbe13699abd0f347f33ed00e63b88847f57262f99932"
+        },
+        {
+          "key": "K19_D",
+          "variant": "D",
+          "direction": "家族祖契卷：暗褐厚羊皮宽卷、不规则自然皮边、简单暗银端帽",
+          "relative": "道具/赤月_蒙特斯/K19_最高血印求援卷轴/K19_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2493666,
+          "sha256": "eb15bc4f4da596a51f482fff0d7c8cbc1d5f16f6c969fbda0600ad5935d86f95"
+        }
+      ]
+    },
+    {
+      "id": "K20",
+      "name": "王庭真证文书组",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E03",
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K20_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K20_王庭真证文书组/K20_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 3274605,
+          "sha256": "615529fe2aeab44802de714c88ba3e06449246ebf2692b9177843eda19120bb0"
+        },
+        {
+          "key": "K20_B",
+          "variant": "B",
+          "direction": "宫廷档案风：精装象牙羊皮证页、银纹边栏、蓝丝绳、独立蜡封",
+          "relative": "道具/王庭_银月体系/K20_王庭真证文书组/K20_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2330024,
+          "sha256": "ba981e44b85043323706fc8adc686e37f1825594c9065a76a9b4298ba3e2b5ae"
+        },
+        {
+          "key": "K20_C",
+          "variant": "C",
+          "direction": "军法证据风：方皮革文件夹、粗棕纸证页、暗银文件扣、分开蜡封",
+          "relative": "道具/王庭_银月体系/K20_王庭真证文书组/K20_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2724463,
+          "sha256": "332bdc717140ddd9705ee66163703d3a453ec61b573dceef91015d46040cff39"
+        },
+        {
+          "key": "K20_D",
+          "variant": "D",
+          "direction": "古老契约风：短粗木轴羊皮卷、旧蓝布包、单页证词、老银封套",
+          "relative": "道具/王庭_银月体系/K20_王庭真证文书组/K20_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2779210,
+          "sha256": "b3e588fc126bb92fa0f391d7673f28960a502cb753a7a823f3f0d617e053f793"
+        }
+      ]
+    },
+    {
+      "id": "K21",
+      "name": "伪证与宣判书",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K21_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K21_伪证与宣判书/K21_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2659611,
+          "sha256": "12fdded24a1ef3c2b5d0a8ba0bc2fd7e6662a0a3440690d3db62a38623091de7"
+        },
+        {
+          "key": "K21_B",
+          "variant": "B",
+          "direction": "宫廷宣判风：精细羊皮双文书、庄严双边框、暗红蜡封",
+          "relative": "道具/王庭_银月体系/K21_伪证与宣判书/K21_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2443645,
+          "sha256": "6c6625e448355b61ebf48d4e470e623a88c143569a5d2f3896b5e72019365c47"
+        },
+        {
+          "key": "K21_C",
+          "variant": "C",
+          "direction": "军法判令风：粗棕折页伪证放简黑皮夹、长条判书另摆",
+          "relative": "道具/王庭_银月体系/K21_伪证与宣判书/K21_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2183674,
+          "sha256": "cac1536a0cbe1aeef99bd85bf9b820155accb5f621559914d8cf5e1613f0c31b"
+        },
+        {
+          "key": "K21_D",
+          "variant": "D",
+          "direction": "旧式法典风：厚装订折册伪证与宽横羊皮判书、暗银角扣",
+          "relative": "道具/王庭_银月体系/K21_伪证与宣判书/K21_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2422347,
+          "sha256": "de1b8ca8f6ce84667e1a5b8b8ad6ee0b8adf421c18e3267a8d370ddf82e1d9b4"
+        }
+      ]
+    },
+    {
+      "id": "K22",
+      "name": "上古狼晶古籍卷",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K22_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K22_上古狼晶古籍卷/K22_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2945683,
+          "sha256": "d581137591cc89399d0e8df16f1460dbaba5f7725543cdb6f3fb1f6b7f9fe084"
+        },
+        {
+          "key": "K22_B",
+          "variant": "B",
+          "direction": "贵族藏书风：厚酒红皮书、银色雕花锁扣、象牙古图页",
+          "relative": "道具/赤月_蒙特斯/K22_上古狼晶古籍卷/K22_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2828974,
+          "sha256": "f0bebafdc75683eb8563c1479afdb3d9a018f3c635ffb68475816c94beda9f19"
+        },
+        {
+          "key": "K22_C",
+          "variant": "C",
+          "direction": "修院古籍风：宽木板封面、粗线装订、暗金羊皮纸、黑铁书扣",
+          "relative": "道具/赤月_蒙特斯/K22_上古狼晶古籍卷/K22_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2747738,
+          "sha256": "2306ab9b14431002432b3dce5e0327dff67c6402fae9be1603baf6ff647c72f9"
+        },
+        {
+          "key": "K22_D",
+          "variant": "D",
+          "direction": "先祖卷轴风：巨幅褐色羊皮长卷、厚圆木双轴、银箍护头",
+          "relative": "道具/赤月_蒙特斯/K22_上古狼晶古籍卷/K22_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2574964,
+          "sha256": "31dd24b11a5ba6ba070942f604732fa46a52f59c4b3920dd32610745d4be9829"
+        }
+      ]
+    },
+    {
+      "id": "K23",
+      "name": "战局地图",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K23_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K23_战局地图/K23_A.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 3300871,
+          "sha256": "7bb96c01156195487ef6f2bfa214754eda7762035019cfcc314093d5d16b5d85"
+        },
+        {
+          "key": "K23_B",
+          "variant": "B",
+          "direction": "贵族军图风：细腻象牙羊皮地图、酒红包边、雕银角饰、细木标记",
+          "relative": "道具/赤月_蒙特斯/K23_战局地图/K23_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2358968,
+          "sha256": "d58f088222cc859d8fd02855c5b83de88eb8cf75a2972e5e750416d924dcc39a"
+        },
+        {
+          "key": "K23_C",
+          "variant": "C",
+          "direction": "前线实战风：粗亚麻背衬棕地图、缝补格区、皮革护边、方木标记",
+          "relative": "道具/赤月_蒙特斯/K23_战局地图/K23_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2952063,
+          "sha256": "76c85225e1406e731c17feb52c3b31d453845de808c664a883b01644d4fd25ce"
+        },
+        {
+          "key": "K23_D",
+          "variant": "D",
+          "direction": "旧王国地图风：几张不规则老羊皮拼接成宽横图、旧墨地形、石质小标记",
+          "relative": "道具/赤月_蒙特斯/K23_战局地图/K23_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2747485,
+          "sha256": "afe6dbd8905513796fbf5849e76773dc702c7ed0fdce11f0c024a6008defabdb"
+        }
+      ]
+    },
+    {
+      "id": "K24",
+      "name": "解除印记的猩红酒",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K24_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K24_解除印记的猩红酒/K24_A.png",
+          "exists": true,
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 1785673,
+          "sha256": "fb48751c9dacc53222585f474bac60c562c63a14a7244330f6fcee302a9abab1"
+        },
+        {
+          "key": "K24_B",
+          "variant": "B",
+          "direction": "贵族毒宴风：高细脚银杯、优美花瓣杯口、暗铜浮雕杯腹",
+          "relative": "道具/赤月_蒙特斯/K24_解除印记的猩红酒/K24_B.png",
+          "exists": true,
+          "dimensions": [
+            1312,
+            1199
+          ],
+          "bytes": 2105460,
+          "sha256": "93d1a5b58c7bdf7f301d73b493668b700724ac41e1fbe8b9485b91fe33563e8c"
+        },
+        {
+          "key": "K24_C",
+          "variant": "C",
+          "direction": "军营饮器风：矮宽厚壁银杯、方形铸造把耳、锤纹平底",
+          "relative": "道具/赤月_蒙特斯/K24_解除印记的猩红酒/K24_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2391518,
+          "sha256": "c481f2414d990c2baa890d39fe4c085107522a01aaffb6a13ff94cdae7db2538"
+        },
+        {
+          "key": "K24_D",
+          "variant": "D",
+          "direction": "古老祭酒风：低脚半球银钵式酒杯、粗厚卷唇边、波纹暗银表面",
+          "relative": "道具/赤月_蒙特斯/K24_解除印记的猩红酒/K24_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2250440,
+          "sha256": "0097dcbb829aa13ff8eb7da5d39d366de74ef291df8bfd00d76b47d37b6faa01"
+        }
+      ]
+    },
+    {
+      "id": "K25",
+      "name": "王庭黑铁镣铐",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E03"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K25_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K25_王庭黑铁镣铐/K25_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2367560,
+          "sha256": "7b2641f3208766897e0b34159536e1b7916150df0e801f9317045b4d985875e8"
+        },
+        {
+          "key": "K25_B",
+          "variant": "B",
+          "direction": "宫廷禁制风：宽银黑铁腕环、几何装饰锁壳、短粗链、精整铸造",
+          "relative": "道具/王庭_银月体系/K25_王庭黑铁镣铐/K25_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2170547,
+          "sha256": "46f3f1eeb630163d1dd2c44a2964963f63274819dfa9888e47e80d1e3dbd42ce"
+        },
+        {
+          "key": "K25_C",
+          "variant": "C",
+          "direction": "军用重铐风：厚方铆黑铁半环、外露插锁、巨大扁链节",
+          "relative": "道具/王庭_银月体系/K25_王庭黑铁镣铐/K25_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2233212,
+          "sha256": "557b399d103c85ac6b9baeb65265aba116d778bada4468ebd475ec862130cc35"
+        },
+        {
+          "key": "K25_D",
+          "variant": "D",
+          "direction": "远古囚禁风：粗锤黑铁圆箍、深锈铸痕、重扭铁链与老式钩锁",
+          "relative": "道具/王庭_银月体系/K25_王庭黑铁镣铐/K25_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2161811,
+          "sha256": "5ffa2f1b6d520b7e7f5b801f96dc49ed537050271886c82ad3a812351bea3351"
+        }
+      ]
+    },
+    {
+      "id": "K26",
+      "name": "圣兽封印钢链",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E07"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K26_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K26_圣兽封印钢链/K26_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2422710,
+          "sha256": "74046e02f946b1e9c25a8f024b16fc1efa8eb34e21899501c2a845145859db1f"
+        },
+        {
+          "key": "K26_B",
+          "variant": "B",
+          "direction": "王庭封印工艺：巨大银黑椭圆链节、精密雕刻端扣、宽银铭板",
+          "relative": "道具/赤月_蒙特斯/K26_圣兽封印钢链/K26_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2524989,
+          "sha256": "8e66ffd1f4eaf860e57c302aca9a3e74328aa81a11d78ef05d16e1a0bf3b3682"
+        },
+        {
+          "key": "K26_C",
+          "variant": "C",
+          "direction": "军械束缚工艺：巨大方圆锻钢短链节、螺栓式厚锚扣、实用重型",
+          "relative": "道具/赤月_蒙特斯/K26_圣兽封印钢链/K26_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2552611,
+          "sha256": "824e1955fa910d82e3708313d721ff7acf3b3c7b90bc7f96b8027bae94689857"
+        },
+        {
+          "key": "K26_D",
+          "variant": "D",
+          "direction": "古老巨兽工艺：不规则手锻巨链、厚环套环、岩石锚块和宽暗银封片",
+          "relative": "道具/赤月_蒙特斯/K26_圣兽封印钢链/K26_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2623614,
+          "sha256": "126bb0f3cf246a0383d96cc17523ad4a167a1edcef307fb4965b6b6d8c0fb09c"
+        }
+      ]
+    },
+    {
+      "id": "K27",
+      "name": "银月封尸符布",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E04"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K27_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K27_银月封尸符布/K27_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2222529,
+          "sha256": "4cb71c46ec6d70ccbc391dff8384bea9b1af658f53cfc8ccfa258c3215979223"
+        },
+        {
+          "key": "K27_B",
+          "variant": "B",
+          "direction": "神圣殓葬风：细窄象牙白亚麻布、银线织边、精细螺旋重叠缠绕",
+          "relative": "道具/王庭_银月体系/K27_银月封尸符布/K27_B.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2314599,
+          "sha256": "616eaa1af5365c70808d824bf82b6e5653c73bc3e6bd5429c36c2e0c6e538ece"
+        },
+        {
+          "key": "K27_C",
+          "variant": "C",
+          "direction": "军用封尸风：宽冷白粗布、加厚横向叠带、整齐实用压实表面",
+          "relative": "道具/王庭_银月体系/K27_银月封尸符布/K27_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2210148,
+          "sha256": "0eff4e24801834ecda125ba673ec5b1e77a4be1696cbdb33fc042f7df8454e1c"
+        },
+        {
+          "key": "K27_D",
+          "variant": "D",
+          "direction": "古老封灵风：灰白手织不规则窄布、斜向网格交叠、旧银线暗纹",
+          "relative": "道具/王庭_银月体系/K27_银月封尸符布/K27_D.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2507309,
+          "sha256": "ce230572de2cda3f27a60cb67377a1828d65012f81d2d7b53bb24ce301a390b2"
+        }
+      ]
+    },
+    {
+      "id": "K28",
+      "name": "三道银蜡封印",
+      "kind": "道具",
+      "group_name": "阿德里安家族",
+      "emblem_ids": [
+        "E10"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K28_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/阿德里安家族/K28_三道银蜡封印/K28_A.png",
+          "exists": true,
+          "dimensions": [
+            1774,
+            887
+          ],
+          "bytes": 2810566,
+          "sha256": "fc4496e6cefe49a06b83352ba64be775bfae91e3a1aeb56553862b93186cce04"
+        },
+        {
+          "key": "K28_B",
+          "variant": "B",
+          "direction": "王庭工艺银封：三枚圆形银蜡章、扇贝波边、清晰压印",
+          "relative": "道具/阿德里安家族/K28_三道银蜡封印/K28_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2608623,
+          "sha256": "05d83e4c43ded4f1d7b7aeb5882f7a70c877effaf9d8f40c65d03db041f527e8"
+        },
+        {
+          "key": "K28_C",
+          "variant": "C",
+          "direction": "军令银封：三枚厚八角银蜡章、平直硬边、深压中心纹",
+          "relative": "道具/阿德里安家族/K28_三道银蜡封印/K28_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2635129,
+          "sha256": "ecbdfe443008337ce75cc4dc703c8e9c057a3cd84b8d946665b4943da975f6a5"
+        },
+        {
+          "key": "K28_D",
+          "variant": "D",
+          "direction": "古老银封：三枚不规则手滴银蜡章、自然皱褶边、清晰中心纹",
+          "relative": "道具/阿德里安家族/K28_三道银蜡封印/K28_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2652035,
+          "sha256": "2f28682ed53f549a1e02ffbb006e8967b58b25bfd67a0240ea5468cdb443d39a"
+        }
+      ]
+    },
+    {
+      "id": "K29",
+      "name": "赫克托漆黑骨哨",
+      "kind": "道具",
+      "group_name": "血影／克鲁斯",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K29_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/血影_克鲁斯/K29_赫克托漆黑骨哨/K29_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2248236,
+          "sha256": "3ca772f30f28459c1bb50de72005ce391815d11b440769a11822ddb6f65f1c4d"
+        },
+        {
+          "key": "K29_B",
+          "variant": "B",
+          "direction": "贵族秘哨：纤细弯曲漆黑骨哨、暗铜小套筒、流线锥尾",
+          "relative": "道具/血影_克鲁斯/K29_赫克托漆黑骨哨/K29_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2183160,
+          "sha256": "f435ef3de457c5eacd975f44ee91ff85a1967fce01f53eba1438825ce31eccf5"
+        },
+        {
+          "key": "K29_C",
+          "variant": "C",
+          "direction": "战地骨哨：粗短方圆黑骨哨、宽吹口、平底、粗绳孔",
+          "relative": "道具/血影_克鲁斯/K29_赫克托漆黑骨哨/K29_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2213889,
+          "sha256": "397b817cbc863d9fe9170689ae7162ca548c65184988d8879ff3cb3e3b2ad068"
+        },
+        {
+          "key": "K29_D",
+          "variant": "D",
+          "direction": "古老兽骨哨：自然弯曲厚黑骨、节状骨纹、斜切吹口、裸露骨质",
+          "relative": "道具/血影_克鲁斯/K29_赫克托漆黑骨哨/K29_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2018890,
+          "sha256": "802b54c780a05020829705ec29c751a9d662e35e06e1cb22696826fbe67d93c2"
+        }
+      ]
+    },
+    {
+      "id": "K30",
+      "name": "血月祭台装置",
+      "kind": "道具",
+      "group_name": "血影／克鲁斯",
+      "emblem_ids": [
+        "E02"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K30_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/血影_克鲁斯/K30_血月祭台装置/K30_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2666438,
+          "sha256": "387b12bed976e10400b43384a2bf77e636a15e85521a9d19ad458185b5875bd9"
+        },
+        {
+          "key": "K30_B",
+          "variant": "B",
+          "direction": "贵族血祭风：黑铜雕边圆盘、暗红珐琅槽、三层雕饰低基座",
+          "relative": "道具/血影_克鲁斯/K30_血月祭台装置/K30_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2559642,
+          "sha256": "f03bac8dcf8a3388c38f633ffa2cae2284253ddef0deabe0d0d09095d2306480"
+        },
+        {
+          "key": "K30_C",
+          "variant": "C",
+          "direction": "军事禁术风：八角黑铁厚台、铆钉束带、几何血槽、四个粗链锚",
+          "relative": "道具/血影_克鲁斯/K30_血月祭台装置/K30_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2535117,
+          "sha256": "f3a8e01f06c54d4c1b29651a6ea09f43014532f00dffd5f74a220ecf9ecc61d6"
+        },
+        {
+          "key": "K30_D",
+          "variant": "D",
+          "direction": "古老献祭风：粗黑火山整石圆坛、原始凿痕、深红自然沟槽、铜端钉",
+          "relative": "道具/血影_克鲁斯/K30_血月祭台装置/K30_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2800437,
+          "sha256": "000192f1cb04e708ef38c2c9635547dcbc41e8a4269b1f1e5be01dce52b8ce34"
+        }
+      ]
+    },
+    {
+      "id": "K31",
+      "name": "密林营救血阵石台",
+      "kind": "道具",
+      "group_name": "黑暗势力",
+      "emblem_ids": [
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K31_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/黑暗势力/K31_密林营救血阵石台/K31_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2606391,
+          "sha256": "7853fcf0e22dbd9c72a924a434d214e317ef9491c8f5b9cb6143fd8dbfb6d9f7"
+        },
+        {
+          "key": "K31_B",
+          "variant": "B",
+          "direction": "邪教祭器风：八角黑石台、精雕黑铁盘边、深红仪式纹",
+          "relative": "道具/黑暗势力/K31_密林营救血阵石台/K31_B.png",
+          "exists": true,
+          "dimensions": [
+            1385,
+            1136
+          ],
+          "bytes": 2433408,
+          "sha256": "95295798f3c3f8841d03d8fb7efa20a02a141d3ec77a9f455a55b156ddf2db9c"
+        },
+        {
+          "key": "K31_C",
+          "variant": "C",
+          "direction": "束缚刑台风：厚方黑石承台嵌圆血阵、四角重型锚锁、铁带包角",
+          "relative": "道具/黑暗势力/K31_密林营救血阵石台/K31_C.png",
+          "exists": true,
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "bytes": 2587215,
+          "sha256": "91068956d869186a3e2073b77338119be8eb8e31470e04cb2d7516e67176f59b"
+        },
+        {
+          "key": "K31_D",
+          "variant": "D",
+          "direction": "原始血阵风：多块粗黑巨石拼成圆台、树根形岩缝、后侧独立锚石",
+          "relative": "道具/黑暗势力/K31_密林营救血阵石台/K31_D.png",
+          "exists": true,
+          "dimensions": [
+            1402,
+            1122
+          ],
+          "bytes": 2649343,
+          "sha256": "58d1fc138e0a92781e04ba9fc03379cbce92f342cc4e68b296f6b421022fba9a"
+        }
+      ]
+    },
+    {
+      "id": "K32",
+      "name": "极渊封印祭坛",
+      "kind": "道具",
+      "group_name": "古代遗物／公共神圣体系",
+      "emblem_ids": [
+        "E07",
+        "E06"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K32_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/古代遗物_公共神圣体系/K32_极渊封印祭坛/K32_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 3014063,
+          "sha256": "84bb90abf9eb91edc272aab4ae472b40f1b472d2b5c305cb4306202e6a2b2409"
+        },
+        {
+          "key": "K32_B",
+          "variant": "B",
+          "direction": "远古神庙工艺：规整三层宽圆黑石祭台、银色细嵌环纹",
+          "relative": "道具/古代遗物_公共神圣体系/K32_极渊封印祭坛/K32_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2459157,
+          "sha256": "5df06b64788c2f196b975a002128ca343f5aa738c3cf1b919aea4f4fa341f2c5"
+        },
+        {
+          "key": "K32_C",
+          "variant": "C",
+          "direction": "古代巨石工艺：单体粗大黑石圆鼓台、厚圆弧侧壁、深凿封印槽",
+          "relative": "道具/古代遗物_公共神圣体系/K32_极渊封印祭坛/K32_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2605301,
+          "sha256": "99d39e6895e3800a21372266ecbe45ebbb3fc8ae2f24cf4a219e96c7e9aaf1ff"
+        },
+        {
+          "key": "K32_D",
+          "variant": "D",
+          "direction": "月神圣器工艺：八角低宽黑石承座与平滑黑曜圆盘、清晰银环封印",
+          "relative": "道具/古代遗物_公共神圣体系/K32_极渊封印祭坛/K32_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2325281,
+          "sha256": "c270b5827489cf7c3d3c928c2e29721f15f57358da76f5248ea222524cbd4ef3"
+        }
+      ]
+    },
+    {
+      "id": "K33",
+      "name": "狼骨王座",
+      "kind": "道具",
+      "group_name": "王庭／银月体系",
+      "emblem_ids": [
+        "E03",
+        "E05"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K33_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/王庭_银月体系/K33_狼骨王座/K33_A.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2176058,
+          "sha256": "42ecf29ddd688a1367356a0ab43c711187e1fda5d5a6281c412da601605ff674"
+        },
+        {
+          "key": "K33_B",
+          "variant": "B",
+          "direction": "巴洛克王权风：宽肩扇形高背骨梁、旧银卷饰、厚酒红绒座、优雅王室比例",
+          "relative": "道具/王庭_银月体系/K33_狼骨王座/K33_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2277788,
+          "sha256": "d6a0ba5d8f44a554c28962667781aa8a0ecf2fe0638480367b029f36aa409564"
+        },
+        {
+          "key": "K33_C",
+          "variant": "C",
+          "direction": "哥特权威风：挺直尖拱骨柱、几何扶手、宽厚深蓝座垫、硬朗结构",
+          "relative": "道具/王庭_银月体系/K33_狼骨王座/K33_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2123121,
+          "sha256": "91bc045022ff78e3d0da68a13f5b608f594f620b91644f3d8ea52fd6e21ac524"
+        },
+        {
+          "key": "K33_D",
+          "variant": "D",
+          "direction": "古代月王风：巨大圆弧完整骨框、朴素宽座、手锻银套结点、象牙骨色",
+          "relative": "道具/王庭_银月体系/K33_狼骨王座/K33_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2520133,
+          "sha256": "c7ef0f9d59faf78640cd098ceadb2c68bbcdf9d1d5620806279ab06e4456d65f"
+        }
+      ]
+    },
+    {
+      "id": "K34",
+      "name": "伴侣印记与共鸣纹样",
+      "kind": "道具",
+      "group_name": "男主／伴侣与随身器物",
+      "emblem_ids": [
+        "E05",
+        "E08"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K34_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/男主_伴侣与随身器物/K34_伴侣印记与共鸣纹样/K34_A.png",
+          "exists": true,
+          "dimensions": [
+            1998,
+            787
+          ],
+          "bytes": 2032163,
+          "sha256": "286e65d7a2bfbe915b152a797991ec0c3c7ab0c22a948f9e9914120f05c6adb0"
+        },
+        {
+          "key": "K34_B",
+          "variant": "B",
+          "direction": "熔金流光风：清晰符号由流动液金及凝结红光组成，厚光边与细光屑",
+          "relative": "道具/男主_伴侣与随身器物/K34_伴侣印记与共鸣纹样/K34_B.png",
+          "exists": true,
+          "dimensions": [
+            1774,
+            887
+          ],
+          "bytes": 2063146,
+          "sha256": "76ac550328bb1af91ab8e96533ebfbea9ad2cc3c20fb75d6853403710c51ef20"
+        },
+        {
+          "key": "K34_C",
+          "variant": "C",
+          "direction": "水晶折射风：清晰符号为透明金红棱面光膜，微妙折射、硬边完整",
+          "relative": "道具/男主_伴侣与随身器物/K34_伴侣印记与共鸣纹样/K34_C.png",
+          "exists": true,
+          "dimensions": [
+            1774,
+            887
+          ],
+          "bytes": 1787109,
+          "sha256": "fc9f8e5b9812c6d91b8c01a6268e0b7afd1f258e2eee937f7364dfd326ebdabf"
+        },
+        {
+          "key": "K34_D",
+          "variant": "D",
+          "direction": "星尘灵息风：清晰符号由细密金红粒子与柔雾组成，中心边界可读",
+          "relative": "道具/男主_伴侣与随身器物/K34_伴侣印记与共鸣纹样/K34_D.png",
+          "exists": true,
+          "dimensions": [
+            1774,
+            887
+          ],
+          "bytes": 2060815,
+          "sha256": "150d546cf0cb9e8c8951d39650e911ef04976b5c04248422354c3897b7882c55"
+        }
+      ]
+    },
+    {
+      "id": "K35",
+      "name": "狼魂榜",
+      "kind": "道具",
+      "group_name": "古代遗物／公共神圣体系",
+      "emblem_ids": [],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K35_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/古代遗物_公共神圣体系/K35_狼魂榜/K35_A.png",
+          "exists": true,
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 2583719,
+          "sha256": "ababd46e52f8c147f786b2dcc9f8beaca48ddf35f65c7c69a3e83ca58e0b9c08"
+        },
+        {
+          "key": "K35_B",
+          "variant": "B",
+          "direction": "古代神殿石榜：宽黑石圆拱碑、厚石柱边框、榜面大片空白",
+          "relative": "道具/古代遗物_公共神圣体系/K35_狼魂榜/K35_B.png",
+          "exists": true,
+          "dimensions": [
+            1312,
+            1199
+          ],
+          "bytes": 2524906,
+          "sha256": "e05691dbe918c37fa4c496ea1f161fbe14a5e5a19464a75bbe2b6c13360a0520"
+        },
+        {
+          "key": "K35_C",
+          "variant": "C",
+          "direction": "旧王朝石榜：高大黑曜矩形切角碑、简洁几何台座、银色细框",
+          "relative": "道具/古代遗物_公共神圣体系/K35_狼魂榜/K35_C.png",
+          "exists": true,
+          "dimensions": [
+            1305,
+            1206
+          ],
+          "bytes": 2114397,
+          "sha256": "4adec14d4aded30de21a071f51d929f3c69ca76d48902367297e5f302962a104"
+        },
+        {
+          "key": "K35_D",
+          "variant": "D",
+          "direction": "原始圣石榜：高宽不规则黑色整岩、天然粗边、中央磨平的空白榜面",
+          "relative": "道具/古代遗物_公共神圣体系/K35_狼魂榜/K35_D.png",
+          "exists": true,
+          "dimensions": [
+            1312,
+            1199
+          ],
+          "bytes": 2515143,
+          "sha256": "f721c03ebcf65b496149cf4fd4d8ebe309d749b0ca258cf22496eb9c7cb657b2"
+        }
+      ]
+    },
+    {
+      "id": "K36",
+      "name": "赤月战旗",
+      "kind": "道具",
+      "group_name": "赤月／蒙特斯",
+      "emblem_ids": [
+        "E01"
+      ],
+      "complete": true,
+      "variants": [
+        {
+          "key": "K36_A",
+          "variant": "A",
+          "direction": "现有修订基准版",
+          "relative": "道具/赤月_蒙特斯/K36_赤月战旗/K36_A.png",
+          "exists": true,
+          "dimensions": [
+            1024,
+            1536
+          ],
+          "bytes": 1878771,
+          "sha256": "90574ce75da21ec89d56c05df8e8e06a604b5aa4d217003eb9b07f81d050f5f0"
+        },
+        {
+          "key": "K36_B",
+          "variant": "B",
+          "direction": "贵族仪仗旗：宽长酒红丝绒矩形旗、精银绣边、长胡桃木杆",
+          "relative": "道具/赤月_蒙特斯/K36_赤月战旗/K36_B.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2072903,
+          "sha256": "2ba7cc6a5363f709b648f17ef3e3af41583d58223077983ef4e447af56fe4f5c"
+        },
+        {
+          "key": "K36_C",
+          "variant": "C",
+          "direction": "战地军旗：厚酒红羊毛双燕尾旗、极简银边、粗木长杆、实用结绳",
+          "relative": "道具/赤月_蒙特斯/K36_赤月战旗/K36_C.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 2054526,
+          "sha256": "e5d7f9e855fe178f4c934102dabf3f93adb074205c881359b49129b8111e9658"
+        },
+        {
+          "key": "K36_D",
+          "variant": "D",
+          "direction": "祖传战旗：窄长酒红麻布尖底旗、旧银织边、手锻银杆头与深色长杆",
+          "relative": "道具/赤月_蒙特斯/K36_赤月战旗/K36_D.png",
+          "exists": true,
+          "dimensions": [
+            1254,
+            1254
+          ],
+          "bytes": 1813137,
+          "sha256": "e64bc04a27c5585be40f53f4c5ccf29584c226a03b188fcee318d8d02460f0d0"
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "id": "E01",
+      "name": "E01_赤月家族纹章",
+      "relative": "固定徽记/E01_赤月家族纹章.png",
+      "sha256": "b47d729268b83b584f722e44873d60140857e3623613026e0c7c4689ef071420"
+    },
+    {
+      "id": "E02",
+      "name": "E02_血影家族纹章",
+      "relative": "固定徽记/E02_血影家族纹章.png",
+      "sha256": "249af1e6564b1b757dcb482a4f6e8371f818d2e91fa6c73b5ea0b572875cfb95"
+    },
+    {
+      "id": "E03",
+      "name": "E03_王庭月冠徽记",
+      "relative": "固定徽记/E03_王庭月冠徽记.png",
+      "sha256": "7535bd15adf63903ee2334a264d529f0f3ec488aa059da76204d28c663cd62cb"
+    },
+    {
+      "id": "E04",
+      "name": "E04_银月卫军制徽记",
+      "relative": "固定徽记/E04_银月卫军制徽记.png",
+      "sha256": "8eddbb6b6ef5a0d4a688d454709addcc8f0b2507088e45f79f663025f64da1ff"
+    },
+    {
+      "id": "E05",
+      "name": "E05_无声阿尔法金月标识",
+      "relative": "固定徽记/E05_无声阿尔法金月标识.png",
+      "sha256": "f1b8373526decbe71401d82a3a7fe81514f8d29a1b2ea0b8fd8e0d38c4ea7f31"
+    },
+    {
+      "id": "E06",
+      "name": "E06_黑暗赤狼裂纹印",
+      "relative": "固定徽记/E06_黑暗赤狼裂纹印.png",
+      "sha256": "727e899fd317d26c10f2bd09af7f5629ceb353e97c15604604736e6ee6205e68"
+    },
+    {
+      "id": "E07",
+      "name": "E07_古代月神封印纹",
+      "relative": "固定徽记/E07_古代月神封印纹.png",
+      "sha256": "8ea90fa754d1a578edcc66f92bd274ab4a3a7a5e5f2e6ffd0c68977fc7490516"
+    },
+    {
+      "id": "E08",
+      "name": "E08_伴侣双印共鸣纹_v2",
+      "relative": "固定徽记/E08_伴侣双印共鸣纹_v2.png",
+      "sha256": "cf9a54e3de7003014a04978c7213efac874334926869efc375de410b52397c3e"
+    },
+    {
+      "id": "E09",
+      "name": "E09_灰狼盟族营地徽记",
+      "relative": "固定徽记/E09_灰狼盟族营地徽记.png",
+      "sha256": "cd763ad15bdba520a9b940afaee7cf2523da78579f00167eacafb6a27020b7b8"
+    },
+    {
+      "id": "E10",
+      "name": "E10_阿德里安家族银霜徽章_v2",
+      "relative": "固定徽记/E10_阿德里安家族银霜徽章_v2.png",
+      "sha256": "1c7bcef8626545f815532a85f1b4ebb6ba518886c2bf45fac35fd5358d8432de"
+    }
+  ],
+  "characters": [
+    {
+      "name": "女主图1_淡眼妆_真人质感",
+      "relative": "角色补充/女主图1_淡眼妆_真人质感.png",
+      "sha256": "5e50d4d93e703252b45f02bcaabb00f80d4ea48365b819cea202cdbb5f825b35"
+    },
+    {
+      "name": "女主图2_皮肤纹理_真人质感",
+      "relative": "角色补充/女主图2_皮肤纹理_真人质感.png",
+      "sha256": "7f9ee8639437cc48dd75d520b036bfc98779767d3607b5c585ff9780f0fe7f39"
+    },
+    {
+      "name": "女主图3_真人质感",
+      "relative": "角色补充/女主图3_真人质感.png",
+      "sha256": "5281b99774bbc87082db24da25ce227358575f51632dd7e5c4c8dd52443898e6"
+    }
+  ]
+}
